@@ -1,1358 +1,588 @@
-[
-  {
-    "cs": "<?php header('Content-type: text/html; charset=utf-8'); ?><!DOCTYPE HTML><html lang =\"pl\"> <head><meta charset=\"utf-8\"/> <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"/></head><body><table>"
-  },
-  {
-    "cs": "<tr><td>Waiting</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Waiting</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Waiting</td></tr>"
-  },
-  {
-    "cs": "<tr><td>ESL Pro League</td></tr>"
-  },
-  {
-    "cs": "<tr><td>October 6 16:30</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Aurora FURIA</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Waiting</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Waiting</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Waiting</td></tr>"
-  },
-  {
-    "cs": "<tr><td>ESL Pro League</td></tr>"
-  },
-  {
-    "cs": "<tr><td>October 6 19:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Falcons NAVI</td></tr>"
-  },
-  {
-    "cs": "<tr><td>ESL Pro League</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 24 17:50</td></tr>"
-  },
-  {
-    "cs": "<tr><td>2 : 1 Falcons</td></tr>"
-  },
-  {
-    "cs": "<tr><td>ESL Pro League</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 24 17:50</td></tr>"
-  },
-  {
-    "cs": "<tr><td>2 : 1 NAVI</td></tr>"
-  },
-  {
-    "cs": "<tr><td>ESL Pro League</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 24 17:50</td></tr>"
-  },
-  {
-    "cs": "<tr><td>2 : 0 1win</td></tr>"
-  },
-  {
-    "cs": "<tr><td>StarLadder StarSeries</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 24 17:50</td></tr>"
-  },
-  {
-    "cs": "<tr><td>3 : 1 Aurora</td></tr>"
-  },
-  {
-    "cs": "<tr><td>ESL Pro League</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 24 20:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>2 : 1 PV</td></tr>"
-  },
-  {
-    "cs": "<tr><td>ESL Pro League</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 24 20:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>0 : 2 MOUZ</td></tr>"
-  },
-  {
-    "cs": "<tr><td>ESL Pro League</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 24 20:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>2 : 0 BB</td></tr>"
-  },
-  {
-    "cs": "<tr><td>StarLadder StarSeries</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 24 20:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>0 : 2 Vitality</td></tr>"
-  },
-  {
-    "cs": "<tr><td>ESL Pro League</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 25 17:25</td></tr>"
-  },
-  {
-    "cs": "<tr><td>2 : 0 Spirit</td></tr>"
-  },
-  {
-    "cs": "<tr><td>ESL Pro League</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 25 17:25</td></tr>"
-  },
-  {
-    "cs": "<tr><td>2 : 0 FURIA</td></tr>"
-  },
-  {
-    "cs": "<tr><td>ESL Pro League</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 25 17:25</td></tr>"
-  },
-  {
-    "cs": "<tr><td>2 : 0 M80</td></tr>"
-  },
-  {
-    "cs": "<tr><td>StarLadder StarSeries</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 25 17:25</td></tr>"
-  },
-  {
-    "cs": "<tr><td>1 : 2 FURIA</td></tr>"
-  },
-  {
-    "cs": "<tr><td>ESL Pro League</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 22 17:30</td></tr>"
-  },
-  {
-    "cs": "<tr><td>1 : 2 Vitality</td></tr>"
-  },
-  {
-    "cs": "<tr><td>ESL Pro League</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 22 17:30</td></tr>"
-  },
-  {
-    "cs": "<tr><td>2 : 0 Aurora</td></tr>"
-  },
-  {
-    "cs": "<tr><td>ESL Pro League</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 22 17:30</td></tr>"
-  },
-  {
-    "cs": "<tr><td>2 : 0 TYLOO</td></tr>"
-  },
-  {
-    "cs": "<tr><td>BLAST Open Fall 2026</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 22 17:30</td></tr>"
-  },
-  {
-    "cs": "<tr><td>0 : 2 Spirit</td></tr>"
-  },
-  {
-    "cs": "<tr><td>ESL Pro League</td></tr>"
-  },
-  {
-    "cs": "<tr><td>October 6 14:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Spirit 1win</td></tr>"
-  },
-  {
-    "cs": "<tr><td>ESL Pro League</td></tr>"
-  },
-  {
-    "cs": "<tr><td>October 6 19:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Falcons NAVI</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Waiting</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Waiting</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Waiting</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Stake Pulse Beat</td></tr>"
-  },
-  {
-    "cs": "<tr><td>October 14 12:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Astralis Sashi</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Waiting</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Waiting</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Waiting</td></tr>"
-  },
-  {
-    "cs": "<tr><td>ESL Pro League</td></tr>"
-  },
-  {
-    "cs": "<tr><td>October 6 16:30</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Aurora FURIA</td></tr>"
-  },
-  {
-    "cs": "<tr><td>ESL Pro League</td></tr>"
-  },
-  {
-    "cs": "<tr><td>October 6 14:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>PV G2</td></tr>"
-  },
-  {
-    "cs": "<tr><td>ESL Pro League</td></tr>"
-  },
-  {
-    "cs": "<tr><td>October 6 14:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>PV G2</td></tr>"
-  },
-  {
-    "cs": "<tr><td>ESL Pro League</td></tr>"
-  },
-  {
-    "cs": "<tr><td>October 6 16:30</td></tr>"
-  },
-  {
-    "cs": "<tr><td>BB 9z</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Waiting</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Waiting</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Waiting</td></tr>"
-  },
-  {
-    "cs": "<tr><td>ESL Pro League</td></tr>"
-  },
-  {
-    "cs": "<tr><td>October 6 19:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Legacy M80</td></tr>"
-  },
-  {
-    "cs": "<tr><td>1win Private Club Q</td></tr>"
-  },
-  {
-    "cs": "<tr><td>October 8 11:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>GL BETM</td></tr>"
-  },
-  {
-    "cs": "<tr><td>ESL Pro League</td></tr>"
-  },
-  {
-    "cs": "<tr><td>October 6 16:30</td></tr>"
-  },
-  {
-    "cs": "<tr><td>BB 9z</td></tr>"
-  },
-  {
-    "cs": "<tr><td>1win Private Club Q</td></tr>"
-  },
-  {
-    "cs": "<tr><td>October 7 17:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Phantom fnatic</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Stake Pulse Beat</td></tr>"
-  },
-  {
-    "cs": "<tr><td>October 15 12:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Envy HEROIC</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Waiting</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Waiting</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Waiting</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Stake Pulse Beat</td></tr>"
-  },
-  {
-    "cs": "<tr><td>October 15 12:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Envy HEROIC</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Waiting</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Waiting</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Waiting</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Waiting</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Waiting</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Waiting</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Stake Pulse Beat</td></tr>"
-  },
-  {
-    "cs": "<tr><td>October 12 12:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>NIP Betclic</td></tr>"
-  },
-  {
-    "cs": "<tr><td>1win Private Club Q</td></tr>"
-  },
-  {
-    "cs": "<tr><td>October 8 17:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Betclic PRIVATE</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Stake Pulse Beat</td></tr>"
-  },
-  {
-    "cs": "<tr><td>October 15 12:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>MIBR BC.Game</td></tr>"
-  },
-  {
-    "cs": "<tr><td>ESL Pro League</td></tr>"
-  },
-  {
-    "cs": "<tr><td>October 6 19:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Legacy M80</td></tr>"
-  },
-  {
-    "cs": "<tr><td>1win Private Club Q</td></tr>"
-  },
-  {
-    "cs": "<tr><td>October 8 14:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>SINNERS Nemesis</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Waiting</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Waiting</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Waiting</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Waiting</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Waiting</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Waiting</td></tr>"
-  },
-  {
-    "cs": "<tr><td>ESL Pro League</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 25 18:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>0 : 2 MOUZ</td></tr>"
-  },
-  {
-    "cs": "<tr><td>ESL Pro League</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 25 18:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>2 : 1 PV</td></tr>"
-  },
-  {
-    "cs": "<tr><td>ESL Pro League</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 25 18:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>2 : 1 ShindeN</td></tr>"
-  },
-  {
-    "cs": "<tr><td>BLAST Open Fall 2026</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 25 18:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>3 : 1 MOUZ</td></tr>"
-  },
-  {
-    "cs": "<tr><td>ESL Pro League</td></tr>"
-  },
-  {
-    "cs": "<tr><td>June 20 19:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>2 : 0 9z</td></tr>"
-  },
-  {
-    "cs": "<tr><td>ESL Pro League</td></tr>"
-  },
-  {
-    "cs": "<tr><td>June 20 19:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>1 : 2 Vitality</td></tr>"
-  },
-  {
-    "cs": "<tr><td>ESL Pro League</td></tr>"
-  },
-  {
-    "cs": "<tr><td>June 20 19:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>2 : 0 G2</td></tr>"
-  },
-  {
-    "cs": "<tr><td>StarLadder StarSeries</td></tr>"
-  },
-  {
-    "cs": "<tr><td>June 20 19:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>1 : 2 MOUZ</td></tr>"
-  },
-  {
-    "cs": "<tr><td>FISSURE Playground</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 25 18:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>0 : 2 5star</td></tr>"
-  },
-  {
-    "cs": "<tr><td>FISSURE Playground</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 25 18:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>1 : 2 MIBR</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Esports World Cup 2026</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 25 18:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>0 : 2 Falcons</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Esports World Cup 2026</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 25 18:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>2 : 0 paiN</td></tr>"
-  },
-  {
-    "cs": "<tr><td>ESL Pro League</td></tr>"
-  },
-  {
-    "cs": "<tr><td>August 1 18:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>3 : 1 Nemiga</td></tr>"
-  },
-  {
-    "cs": "<tr><td>ESL Pro League</td></tr>"
-  },
-  {
-    "cs": "<tr><td>August 1 18:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>2 : 1 Luminosity</td></tr>"
-  },
-  {
-    "cs": "<tr><td>ESL Pro League</td></tr>"
-  },
-  {
-    "cs": "<tr><td>August 1 18:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>2 : 0 fnatic</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Stake Ranked</td></tr>"
-  },
-  {
-    "cs": "<tr><td>August 1 18:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>2 : 1 BIG</td></tr>"
-  },
-  {
-    "cs": "<tr><td>BLAST Open Fall 2026</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 25 18:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>0 : 2 Vitality</td></tr>"
-  },
-  {
-    "cs": "<tr><td>BLAST Open Fall 2026</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 25 18:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>2 : 0 IC</td></tr>"
-  },
-  {
-    "cs": "<tr><td>BLAST Open Fall 2026</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 25 18:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>2 : 1 LVG</td></tr>"
-  },
-  {
-    "cs": "<tr><td>BLAST Open Fall 2026</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 25 18:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>0 : 2 Legacy</td></tr>"
-  },
-  {
-    "cs": "<tr><td>ESL Pro League</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 12 10:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>1 : 2 FURIA</td></tr>"
-  },
-  {
-    "cs": "<tr><td>ESL Pro League</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 12 10:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>1 : 2 Spirit</td></tr>"
-  },
-  {
-    "cs": "<tr><td>ESL Pro League</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 12 10:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>2 : 1 Legacy</td></tr>"
-  },
-  {
-    "cs": "<tr><td>FISSURE Playground</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 12 10:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>0 : 2 magic</td></tr>"
-  },
-  {
-    "cs": "<tr><td>ESL Pro League</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 23 17:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>2 : 0 ShindeN</td></tr>"
-  },
-  {
-    "cs": "<tr><td>ESL Pro League</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 23 17:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>1 : 2 1win</td></tr>"
-  },
-  {
-    "cs": "<tr><td>ESL Pro League</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 23 17:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>0 : 2 NAVI</td></tr>"
-  },
-  {
-    "cs": "<tr><td>FISSURE Playground</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 23 17:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>0 : 3 Legacy</td></tr>"
-  },
-  {
-    "cs": "<tr><td>ESL Pro League</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 12 12:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>0 : 2 NAVI</td></tr>"
-  },
-  {
-    "cs": "<tr><td>ESL Pro League</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 12 12:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>2 : 0 TYLOO</td></tr>"
-  },
-  {
-    "cs": "<tr><td>ESL Pro League</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 12 12:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>0 : 2 Aurora</td></tr>"
-  },
-  {
-    "cs": "<tr><td>FISSURE Playground</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 12 12:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>1 : 2 G2</td></tr>"
-  },
-  {
-    "cs": "<tr><td>FERJEE In House</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 26 14:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>0 : 3 Imperial</td></tr>"
-  },
-  {
-    "cs": "<tr><td>FERJEE In House</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 26 14:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>2 : 0 Galorys</td></tr>"
-  },
-  {
-    "cs": "<tr><td>FERJEE In House</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 26 14:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>2 : 0 BountyHunters</td></tr>"
-  },
-  {
-    "cs": "<tr><td>FERJEE In House</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 26 14:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>2 : 0 Turma.do.Pagode</td></tr>"
-  },
-  {
-    "cs": "<tr><td>ESL Pro League</td></tr>"
-  },
-  {
-    "cs": "<tr><td>June 14 21:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>0 : 2 1win</td></tr>"
-  },
-  {
-    "cs": "<tr><td>ESL Pro League</td></tr>"
-  },
-  {
-    "cs": "<tr><td>June 14 21:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>2 : 0 ShindeN</td></tr>"
-  },
-  {
-    "cs": "<tr><td>ESL Pro League</td></tr>"
-  },
-  {
-    "cs": "<tr><td>June 14 21:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>1 : 2 PV</td></tr>"
-  },
-  {
-    "cs": "<tr><td>FISSURE Playground</td></tr>"
-  },
-  {
-    "cs": "<tr><td>June 14 21:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>3 : 0 G2</td></tr>"
-  },
-  {
-    "cs": "<tr><td>1win Private Club</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 23 17:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>1 : 3 NIP</td></tr>"
-  },
-  {
-    "cs": "<tr><td>1win Private Club</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 23 17:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>2 : 0 magic</td></tr>"
-  },
-  {
-    "cs": "<tr><td>1win Private Club</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 23 17:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>2 : 0 SINNERS</td></tr>"
-  },
-  {
-    "cs": "<tr><td>1win Private Club</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 23 17:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>2 : 1 3DMAX</td></tr>"
-  },
-  {
-    "cs": "<tr><td>ESL Pro League</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 10 15:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>1 : 2 Aurora</td></tr>"
-  },
-  {
-    "cs": "<tr><td>ESL Pro League</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 10 15:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>2 : 0 M80</td></tr>"
-  },
-  {
-    "cs": "<tr><td>ESL Pro League</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 10 15:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>0 : 2 FURIA</td></tr>"
-  },
-  {
-    "cs": "<tr><td>FISSURE Playground</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 10 15:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>1 : 2 G2</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Flashpoint</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 26 14:15</td></tr>"
-  },
-  {
-    "cs": "<tr><td>0 : 2 MADLions</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Flashpoint</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 26 14:15</td></tr>"
-  },
-  {
-    "cs": "<tr><td>1 : 2 BIG</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Flashpoint</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 26 14:15</td></tr>"
-  },
-  {
-    "cs": "<tr><td>2 : 1 Gen.G</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Flashpoint</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 26 14:15</td></tr>"
-  },
-  {
-    "cs": "<tr><td>1 : 2 MIBR</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Stake Ranked</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 10 15:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>0 : 2 fnatic</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Stake Ranked</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 10 15:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>0 : 2 Luminosity</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Logitech G Play Connect</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 10 15:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>0 : 2 Luminosity</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Logitech G Play Connect</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 10 15:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>13 : 9 M80</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Stake Pulse Beat II</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 25 18:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>2 : 1 100Thieves</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Stake Pulse Beat II</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 25 18:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>2 : 1 Sangal</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Stake Pulse Beat II</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 25 18:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>2 : 1 fnatic</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Stake Pulse Beat II</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 25 18:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>2 : 0 B.BL</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Stake Ranked</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 25 12:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>1 : 2 Astralis</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Stake Ranked</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 25 12:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>0 : 2 Nemiga</td></tr>"
-  },
-  {
-    "cs": "<tr><td>FISSURE Playground</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 25 12:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>1 : 2 magic</td></tr>"
-  },
-  {
-    "cs": "<tr><td>FISSURE Playground</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 25 12:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>0 : 2 Alliance</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Stake Ranked</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 10 12:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>1 : 2 Astralis</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Stake Ranked</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 10 12:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>1 : 2 Luminosity</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Stake Ranked</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 10 12:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>2 : 1 fnatic</td></tr>"
-  },
-  {
-    "cs": "<tr><td>FISSURE Playground</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 10 12:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>1 : 2 G2</td></tr>"
-  },
-  {
-    "cs": "<tr><td>ROG JOURNEY Autumn</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 26 20:35</td></tr>"
-  },
-  {
-    "cs": "<tr><td>2 : 0 EthernalFire</td></tr>"
-  },
-  {
-    "cs": "<tr><td>ROG JOURNEY Autumn</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 26 20:35</td></tr>"
-  },
-  {
-    "cs": "<tr><td>2 : 0 B.BL</td></tr>"
-  },
-  {
-    "cs": "<tr><td>ROG JOURNEY Autumn</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 26 20:35</td></tr>"
-  },
-  {
-    "cs": "<tr><td>2 : 1 SINNERS</td></tr>"
-  },
-  {
-    "cs": "<tr><td>ROG JOURNEY Autumn</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 26 20:35</td></tr>"
-  },
-  {
-    "cs": "<tr><td>2 : 0 JohnnySpeeds</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Stake Pulse Beat II</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 25 18:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>1 : 2 Astralis</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Stake Pulse Beat II</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 24 15:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>2 : 1 EthernalFire</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Stake Pulse Beat II</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 21 20:25</td></tr>"
-  },
-  {
-    "cs": "<tr><td>0 : 2 JiJieHao</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Stake Pulse Beat II</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 21 20:25</td></tr>"
-  },
-  {
-    "cs": "<tr><td>2 : 1 ASTRAL</td></tr>"
-  },
-  {
-    "cs": "<tr><td>StarLadder StarSeries</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 28 19:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>0 : 2 FURIA</td></tr>"
-  },
-  {
-    "cs": "<tr><td>StarLadder StarSeries</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 28 19:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>2 : 0 NRG</td></tr>"
-  },
-  {
-    "cs": "<tr><td>StarLadder StarSeries</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 28 19:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>2 : 1 magic</td></tr>"
-  },
-  {
-    "cs": "<tr><td>StarLadder StarSeries</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 28 19:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>1 : 2 FURIA</td></tr>"
-  },
-  {
-    "cs": "<tr><td>ESL Pro League</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 23 17:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>2 : 1 TYLOO</td></tr>"
-  },
-  {
-    "cs": "<tr><td>ESL Pro League</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 23 17:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>0 : 2 BB</td></tr>"
-  },
-  {
-    "cs": "<tr><td>ESL Pro League</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 23 17:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>0 : 2 MOUZ</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Ibuypower Masters</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 23 17:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>2 : 1 DENDELE</td></tr>"
-  },
-  {
-    "cs": "<tr><td>ROG JOURNEY Autumn</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 23 17:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>1 : 2 NIP</td></tr>"
-  },
-  {
-    "cs": "<tr><td>ROG JOURNEY Autumn</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 23 17:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>13 : 5 100Thieves</td></tr>"
-  },
-  {
-    "cs": "<tr><td>ROG JOURNEY Autumn</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 23 17:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>13 : 6 NordicPartners</td></tr>"
-  },
-  {
-    "cs": "<tr><td>ROG JOURNEY Autumn</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 23 17:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>13 : 3 Anteiku</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Stake Ranked</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 21 00:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>0 : 2 fnatic</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Stake Ranked</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 21 00:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>0 : 2 Nemiga</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Stake Ranked</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 21 00:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>2 : 1 Astralis</td></tr>"
-  },
-  {
-    "cs": "<tr><td>1win Private Club</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 21 00:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>0 : 2 3DMAX</td></tr>"
-  },
-  {
-    "cs": "<tr><td>1win Private Club</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 22 12:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>0 : 2 K27</td></tr>"
-  },
-  {
-    "cs": "<tr><td>1win Private Club</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 22 12:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>1 : 2 magic</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Logitech G Play Connect</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 22 12:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>13 : 10 IC</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Logitech G Play Connect</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 22 12:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>13 : 3 INFINITE</td></tr>"
-  },
-  {
-    "cs": "<tr><td>ESL Pro League</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 22 12:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>2 : 1 BB</td></tr>"
-  },
-  {
-    "cs": "<tr><td>ESL Pro League</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 22 12:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>0 : 2 Falcons</td></tr>"
-  },
-  {
-    "cs": "<tr><td>ESL Pro League</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 22 12:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>2 : 0 9z</td></tr>"
-  },
-  {
-    "cs": "<tr><td>StarLadder StarSeries</td></tr>"
-  },
-  {
-    "cs": "<tr><td>July 22 12:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>1 : 3 Vitality</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Stake Ranked Q</td></tr>"
-  },
-  {
-    "cs": "<tr><td>June 14 00:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>0 : 2 IberianSoul</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Stake Pulse Beat II</td></tr>"
-  },
-  {
-    "cs": "<tr><td>June 13 00:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>0 : 2 fnatic</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Stake Pulse Beat II</td></tr>"
-  },
-  {
-    "cs": "<tr><td>June 12 00:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>1 : 2 100Thieves</td></tr>"
-  },
-  {
-    "cs": "<tr><td>Stake Pulse Beat II</td></tr>"
-  },
-  {
-    "cs": "<tr><td>June 11 00:00</td></tr>"
-  },
-  {
-    "cs": "<tr><td>2 : 1 fnatic</td></tr>"
-  },
-  {
-    "cs": "</table></body></html>"
-  }
-]
+<?php header('Content-type: text/html; charset=utf-8'); ?><!DOCTYPE HTML><html lang ="pl"> <head><meta charset="utf-8"/> <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/></head><body><table>
+
+<tr><td>Waiting</td></tr>
+<tr><td>Waiting</td></tr>
+<tr><td>Waiting</td></tr>
+
+<tr><td>ESL Pro League</td></tr>
+<tr><td>October 6 16:30</td></tr>
+<tr><td>Aurora FURIA</td></tr>
+
+<tr><td>Waiting</td></tr>
+<tr><td>Waiting</td></tr>
+<tr><td>Waiting</td></tr>
+
+<tr><td>ESL Pro League</td></tr>
+<tr><td>October 6 19:00</td></tr>
+<tr><td>Falcons NAVI</td></tr>
+
+<tr><td>ESL Pro League</td></tr>
+<tr><td>July 24 17:50</td></tr>
+<tr><td>2 : 1 Falcons</td></tr>
+
+<tr><td>ESL Pro League</td></tr>
+<tr><td>July 24 17:50</td></tr>
+<tr><td>2 : 1 NAVI</td></tr>
+
+<tr><td>ESL Pro League</td></tr>
+<tr><td>July 24 17:50</td></tr>
+<tr><td>2 : 0 1win</td></tr>
+
+<tr><td>StarLadder StarSeries</td></tr>
+<tr><td>July 24 17:50</td></tr>
+<tr><td>3 : 1 Aurora</td></tr>
+
+<tr><td>ESL Pro League</td></tr>
+<tr><td>July 24 20:00</td></tr>
+<tr><td>2 : 1 PV</td></tr>
+
+<tr><td>ESL Pro League</td></tr>
+<tr><td>July 24 20:00</td></tr>
+<tr><td>0 : 2 MOUZ</td></tr>
+
+<tr><td>ESL Pro League</td></tr>
+<tr><td>July 24 20:00</td></tr>
+<tr><td>2 : 0 BB</td></tr>
+
+<tr><td>StarLadder StarSeries</td></tr>
+<tr><td>July 24 20:00</td></tr>
+<tr><td>0 : 2 Vitality</td></tr>
+
+<tr><td>ESL Pro League</td></tr>
+<tr><td>July 25 17:25</td></tr>
+<tr><td>2 : 0 Spirit</td></tr>
+
+<tr><td>ESL Pro League</td></tr>
+<tr><td>July 25 17:25</td></tr>
+<tr><td>2 : 0 FURIA</td></tr>
+
+<tr><td>ESL Pro League</td></tr>
+<tr><td>July 25 17:25</td></tr>
+<tr><td>2 : 0 M80</td></tr>
+
+<tr><td>StarLadder StarSeries</td></tr>
+<tr><td>July 25 17:25</td></tr>
+<tr><td>1 : 2 FURIA</td></tr>
+
+<tr><td>ESL Pro League</td></tr>
+<tr><td>July 22 17:30</td></tr>
+<tr><td>1 : 2 Vitality</td></tr>
+
+<tr><td>ESL Pro League</td></tr>
+<tr><td>July 22 17:30</td></tr>
+<tr><td>2 : 0 Aurora</td></tr>
+
+<tr><td>ESL Pro League</td></tr>
+<tr><td>July 22 17:30</td></tr>
+<tr><td>2 : 0 TYLOO</td></tr>
+
+<tr><td>BLAST Open Fall 2026</td></tr>
+<tr><td>July 22 17:30</td></tr>
+<tr><td>0 : 2 Spirit</td></tr>
+
+<tr><td>ESL Pro League</td></tr>
+<tr><td>October 6 14:00</td></tr>
+<tr><td>Spirit 1win</td></tr>
+
+<tr><td>ESL Pro League</td></tr>
+<tr><td>October 6 19:00</td></tr>
+<tr><td>Falcons NAVI</td></tr>
+
+<tr><td>Waiting</td></tr>
+<tr><td>Waiting</td></tr>
+<tr><td>Waiting</td></tr>
+
+<tr><td>Stake Pulse Beat</td></tr>
+<tr><td>October 14 12:00</td></tr>
+<tr><td>Astralis Sashi</td></tr>
+
+<tr><td>Waiting</td></tr>
+<tr><td>Waiting</td></tr>
+<tr><td>Waiting</td></tr>
+
+<tr><td>ESL Pro League</td></tr>
+<tr><td>October 6 16:30</td></tr>
+<tr><td>Aurora FURIA</td></tr>
+
+<tr><td>ESL Pro League</td></tr>
+<tr><td>October 6 14:00</td></tr>
+<tr><td>PV G2</td></tr>
+
+<tr><td>ESL Pro League</td></tr>
+<tr><td>October 6 14:00</td></tr>
+<tr><td>PV G2</td></tr>
+
+<tr><td>ESL Pro League</td></tr>
+<tr><td>October 6 16:30</td></tr>
+<tr><td>BB 9z</td></tr>
+
+<tr><td>Waiting</td></tr>
+<tr><td>Waiting</td></tr>
+<tr><td>Waiting</td></tr>
+
+<tr><td>ESL Pro League</td></tr>
+<tr><td>October 6 19:00</td></tr>
+<tr><td>Legacy M80</td></tr>
+
+<tr><td>1win Private Club Q</td></tr>
+<tr><td>October 8 11:00</td></tr>
+<tr><td>GL BET-M</td></tr>
+
+<tr><td>ESL Pro League</td></tr>
+<tr><td>October 6 16:30</td></tr>
+<tr><td>BB 9z</td></tr>
+
+<tr><td>1win Private Club Q</td></tr>
+<tr><td>October 7 17:00</td></tr>
+<tr><td>Phantom fnatic</td></tr>
+
+<tr><td>Stake Pulse Beat</td></tr>
+<tr><td>October 15 12:00</td></tr>
+<tr><td>Envy HEROIC</td></tr>
+
+<tr><td>Waiting</td></tr>
+<tr><td>Waiting</td></tr>
+<tr><td>Waiting</td></tr>
+
+<tr><td>Stake Pulse Beat</td></tr>
+<tr><td>October 15 12:00</td></tr>
+<tr><td>Envy HEROIC</td></tr>
+
+<tr><td>Waiting</td></tr>
+<tr><td>Waiting</td></tr>
+<tr><td>Waiting</td></tr>
+
+<tr><td>Waiting</td></tr>
+<tr><td>Waiting</td></tr>
+<tr><td>Waiting</td></tr>
+
+<tr><td>Stake Pulse Beat</td></tr>
+<tr><td>October 12 12:00</td></tr>
+<tr><td>NIP Betclic</td></tr>
+
+<tr><td>1win Private Club Q</td></tr>
+<tr><td>October 8 17:00</td></tr>
+<tr><td>Betclic PRIVATE</td></tr>
+
+<tr><td>Stake Pulse Beat</td></tr>
+<tr><td>October 15 12:00</td></tr>
+<tr><td>MIBR BC.Game</td></tr>
+
+<tr><td>ESL Pro League</td></tr>
+<tr><td>October 6 19:00</td></tr>
+<tr><td>Legacy M80</td></tr>
+
+<tr><td>1win Private Club Q</td></tr>
+<tr><td>October 8 14:00</td></tr>
+<tr><td>SINNERS Nemesis</td></tr>
+
+<tr><td>Waiting</td></tr>
+<tr><td>Waiting</td></tr>
+<tr><td>Waiting</td></tr>
+
+<tr><td>Waiting</td></tr>
+<tr><td>Waiting</td></tr>
+<tr><td>Waiting</td></tr>
+
+<tr><td>ESL Pro League</td></tr>
+<tr><td>July 25 18:00</td></tr>
+<tr><td>0 : 2 MOUZ</td></tr>
+
+<tr><td>ESL Pro League</td></tr>
+<tr><td>July 25 18:00</td></tr>
+<tr><td>2 : 1 PV</td></tr>
+
+<tr><td>ESL Pro League</td></tr>
+<tr><td>July 25 18:00</td></tr>
+<tr><td>2 : 1 ShindeN</td></tr>
+
+<tr><td>BLAST Open Fall 2026</td></tr>
+<tr><td>July 25 18:00</td></tr>
+<tr><td>3 : 1 MOUZ</td></tr>
+
+<tr><td>ESL Pro League</td></tr>
+<tr><td>June 20 19:00</td></tr>
+<tr><td>2 : 0 9z</td></tr>
+
+<tr><td>ESL Pro League</td></tr>
+<tr><td>June 20 19:00</td></tr>
+<tr><td>1 : 2 Vitality</td></tr>
+
+<tr><td>ESL Pro League</td></tr>
+<tr><td>June 20 19:00</td></tr>
+<tr><td>2 : 0 G2</td></tr>
+
+<tr><td>StarLadder StarSeries</td></tr>
+<tr><td>June 20 19:00</td></tr>
+<tr><td>1 : 2 MOUZ</td></tr>
+
+<tr><td>FISSURE Playground</td></tr>
+<tr><td>July 25 18:00</td></tr>
+<tr><td>0 : 2 5star</td></tr>
+
+<tr><td>FISSURE Playground</td></tr>
+<tr><td>July 25 18:00</td></tr>
+<tr><td>1 : 2 MIBR</td></tr>
+
+<tr><td>Esports World Cup 2026</td></tr>
+<tr><td>July 25 18:00</td></tr>
+<tr><td>0 : 2 Falcons</td></tr>
+
+<tr><td>Esports World Cup 2026</td></tr>
+<tr><td>July 25 18:00</td></tr>
+<tr><td>2 : 0 paiN</td></tr>
+
+<tr><td>ESL Pro League</td></tr>
+<tr><td>August 1 18:00</td></tr>
+<tr><td>3 : 1 Nemiga</td></tr>
+
+<tr><td>ESL Pro League</td></tr>
+<tr><td>August 1 18:00</td></tr>
+<tr><td>2 : 1 Luminosity</td></tr>
+
+<tr><td>ESL Pro League</td></tr>
+<tr><td>August 1 18:00</td></tr>
+<tr><td>2 : 0 fnatic</td></tr>
+
+<tr><td>Stake Ranked</td></tr>
+<tr><td>August 1 18:00</td></tr>
+<tr><td>2 : 1 BIG</td></tr>
+
+<tr><td>BLAST Open Fall 2026</td></tr>
+<tr><td>July 25 18:00</td></tr>
+<tr><td>0 : 2 Vitality</td></tr>
+
+<tr><td>BLAST Open Fall 2026</td></tr>
+<tr><td>July 25 18:00</td></tr>
+<tr><td>2 : 0 IC</td></tr>
+
+<tr><td>BLAST Open Fall 2026</td></tr>
+<tr><td>July 25 18:00</td></tr>
+<tr><td>2 : 1 LVG</td></tr>
+
+<tr><td>BLAST Open Fall 2026</td></tr>
+<tr><td>July 25 18:00</td></tr>
+<tr><td>0 : 2 Legacy</td></tr>
+
+<tr><td>ESL Pro League</td></tr>
+<tr><td>July 12 10:00</td></tr>
+<tr><td>1 : 2 FURIA</td></tr>
+
+<tr><td>ESL Pro League</td></tr>
+<tr><td>July 12 10:00</td></tr>
+<tr><td>1 : 2 Spirit</td></tr>
+
+<tr><td>ESL Pro League</td></tr>
+<tr><td>July 12 10:00</td></tr>
+<tr><td>2 : 1 Legacy</td></tr>
+
+<tr><td>FISSURE Playground</td></tr>
+<tr><td>July 12 10:00</td></tr>
+<tr><td>0 : 2 magic</td></tr>
+
+<tr><td>ESL Pro League</td></tr>
+<tr><td>July 23 17:00</td></tr>
+<tr><td>2 : 0 ShindeN</td></tr>
+
+<tr><td>ESL Pro League</td></tr>
+<tr><td>July 23 17:00</td></tr>
+<tr><td>1 : 2 1win</td></tr>
+
+<tr><td>ESL Pro League</td></tr>
+<tr><td>July 23 17:00</td></tr>
+<tr><td>0 : 2 NAVI</td></tr>
+
+<tr><td>FISSURE Playground</td></tr>
+<tr><td>July 23 17:00</td></tr>
+<tr><td>0 : 3 Legacy</td></tr>
+
+<tr><td>ESL Pro League</td></tr>
+<tr><td>July 12 12:00</td></tr>
+<tr><td>0 : 2 NAVI</td></tr>
+
+<tr><td>ESL Pro League</td></tr>
+<tr><td>July 12 12:00</td></tr>
+<tr><td>2 : 0 TYLOO</td></tr>
+
+<tr><td>ESL Pro League</td></tr>
+<tr><td>July 12 12:00</td></tr>
+<tr><td>0 : 2 Aurora</td></tr>
+
+<tr><td>FISSURE Playground</td></tr>
+<tr><td>July 12 12:00</td></tr>
+<tr><td>1 : 2 G2</td></tr>
+
+<tr><td>FERJEE In House</td></tr>
+<tr><td>July 26 14:00</td></tr>
+<tr><td>0 : 3 Imperial</td></tr>
+
+<tr><td>FERJEE In House</td></tr>
+<tr><td>July 26 14:00</td></tr>
+<tr><td>2 : 0 Galorys</td></tr>
+
+<tr><td>FERJEE In House</td></tr>
+<tr><td>July 26 14:00</td></tr>
+<tr><td>2 : 0 BountyHunters</td></tr>
+
+<tr><td>FERJEE In House</td></tr>
+<tr><td>July 26 14:00</td></tr>
+<tr><td>2 : 0 Turma.do.Pagode</td></tr>
+
+<tr><td>ESL Pro League</td></tr>
+<tr><td>June 14 21:00</td></tr>
+<tr><td>0 : 2 1win</td></tr>
+
+<tr><td>ESL Pro League</td></tr>
+<tr><td>June 14 21:00</td></tr>
+<tr><td>2 : 0 ShindeN</td></tr>
+
+<tr><td>ESL Pro League</td></tr>
+<tr><td>June 14 21:00</td></tr>
+<tr><td>1 : 2 PV</td></tr>
+
+<tr><td>FISSURE Playground</td></tr>
+<tr><td>June 14 21:00</td></tr>
+<tr><td>3 : 0 G2</td></tr>
+
+<tr><td>1win Private Club</td></tr>
+<tr><td>July 23 17:00</td></tr>
+<tr><td>1 : 3 NIP</td></tr>
+
+<tr><td>1win Private Club</td></tr>
+<tr><td>July 23 17:00</td></tr>
+<tr><td>2 : 0 magic</td></tr>
+
+<tr><td>1win Private Club</td></tr>
+<tr><td>July 23 17:00</td></tr>
+<tr><td>2 : 0 SINNERS</td></tr>
+
+<tr><td>1win Private Club</td></tr>
+<tr><td>July 23 17:00</td></tr>
+<tr><td>2 : 1 3DMAX</td></tr>
+
+<tr><td>ESL Pro League</td></tr>
+<tr><td>July 10 15:00</td></tr>
+<tr><td>1 : 2 Aurora</td></tr>
+
+<tr><td>ESL Pro League</td></tr>
+<tr><td>July 10 15:00</td></tr>
+<tr><td>2 : 0 M80</td></tr>
+
+<tr><td>ESL Pro League</td></tr>
+<tr><td>July 10 15:00</td></tr>
+<tr><td>0 : 2 FURIA</td></tr>
+
+<tr><td>FISSURE Playground</td></tr>
+<tr><td>July 10 15:00</td></tr>
+<tr><td>1 : 2 G2</td></tr>
+
+<tr><td>Flashpoint</td></tr>
+<tr><td>July 26 14:15</td></tr>
+<tr><td>0 : 2 MADLions</td></tr>
+
+<tr><td>Flashpoint</td></tr>
+<tr><td>July 26 14:15</td></tr>
+<tr><td>1 : 2 BIG</td></tr>
+
+<tr><td>Flashpoint</td></tr>
+<tr><td>July 26 14:15</td></tr>
+<tr><td>2 : 1 Gen.G</td></tr>
+
+<tr><td>Flashpoint</td></tr>
+<tr><td>July 26 14:15</td></tr>
+<tr><td>1 : 2 MIBR</td></tr>
+
+<tr><td>Stake Ranked</td></tr>
+<tr><td>July 10 15:00</td></tr>
+<tr><td>0 : 2 fnatic</td></tr>
+
+<tr><td>Stake Ranked</td></tr>
+<tr><td>July 10 15:00</td></tr>
+<tr><td>0 : 2 Luminosity</td></tr>
+
+<tr><td>Logitech G Play Connect</td></tr>
+<tr><td>July 10 15:00</td></tr>
+<tr><td>0 : 2 Luminosity</td></tr>
+
+<tr><td>Logitech G Play Connect</td></tr>
+<tr><td>July 10 15:00</td></tr>
+<tr><td>13 : 9 M80</td></tr>
+
+<tr><td>Stake Pulse Beat II</td></tr>
+<tr><td>July 25 18:00</td></tr>
+<tr><td>2 : 1 100Thieves</td></tr>
+
+<tr><td>Stake Pulse Beat II</td></tr>
+<tr><td>July 25 18:00</td></tr>
+<tr><td>2 : 1 Sangal</td></tr>
+
+<tr><td>Stake Pulse Beat II</td></tr>
+<tr><td>July 25 18:00</td></tr>
+<tr><td>2 : 1 fnatic</td></tr>
+
+<tr><td>Stake Pulse Beat II</td></tr>
+<tr><td>July 25 18:00</td></tr>
+<tr><td>2 : 0 B.BL</td></tr>
+
+<tr><td>Stake Ranked</td></tr>
+<tr><td>July 25 12:00</td></tr>
+<tr><td>1 : 2 Astralis</td></tr>
+
+<tr><td>Stake Ranked</td></tr>
+<tr><td>July 25 12:00</td></tr>
+<tr><td>0 : 2 Nemiga</td></tr>
+
+<tr><td>FISSURE Playground</td></tr>
+<tr><td>July 25 12:00</td></tr>
+<tr><td>1 : 2 magic</td></tr>
+
+<tr><td>FISSURE Playground</td></tr>
+<tr><td>July 25 12:00</td></tr>
+<tr><td>0 : 2 Alliance</td></tr>
+
+<tr><td>Stake Ranked</td></tr>
+<tr><td>July 10 12:00</td></tr>
+<tr><td>1 : 2 Astralis</td></tr>
+
+<tr><td>Stake Ranked</td></tr>
+<tr><td>July 10 12:00</td></tr>
+<tr><td>1 : 2 Luminosity</td></tr>
+
+<tr><td>Stake Ranked</td></tr>
+<tr><td>July 10 12:00</td></tr>
+<tr><td>2 : 1 fnatic</td></tr>
+
+<tr><td>FISSURE Playground</td></tr>
+<tr><td>July 10 12:00</td></tr>
+<tr><td>1 : 2 G2</td></tr>
+
+<tr><td>ROG JOURNEY Autumn</td></tr>
+<tr><td>July 26 20:35</td></tr>
+<tr><td>2 : 0 EthernalFire</td></tr>
+
+<tr><td>ROG JOURNEY Autumn</td></tr>
+<tr><td>July 26 20:35</td></tr>
+<tr><td>2 : 0 B.BL</td></tr>
+
+<tr><td>ROG JOURNEY Autumn</td></tr>
+<tr><td>July 26 20:35</td></tr>
+<tr><td>2 : 1 SINNERS</td></tr>
+
+<tr><td>ROG JOURNEY Autumn</td></tr>
+<tr><td>July 26 20:35</td></tr>
+<tr><td>2 : 0 JohnnySpeeds</td></tr>
+
+<tr><td>Stake Pulse Beat II</td></tr>
+<tr><td>July 25 18:00</td></tr>
+<tr><td>1 : 2 Astralis</td></tr>
+
+<tr><td>Stake Pulse Beat II</td></tr>
+<tr><td>July 24 15:00</td></tr>
+<tr><td>2 : 1 EthernalFire</td></tr>
+
+<tr><td>Stake Pulse Beat II</td></tr>
+<tr><td>July 21 20:25</td></tr>
+<tr><td>0 : 2 JiJieHao</td></tr>
+
+<tr><td>Stake Pulse Beat II</td></tr>
+<tr><td>July 21 20:25</td></tr>
+<tr><td>2 : 1 ASTRAL</td></tr>
+
+<tr><td>StarLadder StarSeries</td></tr>
+<tr><td>July 28 19:00</td></tr>
+<tr><td>0 : 2 FURIA</td></tr>
+
+<tr><td>StarLadder StarSeries</td></tr>
+<tr><td>July 28 19:00</td></tr>
+<tr><td>2 : 0 NRG</td></tr>
+
+<tr><td>StarLadder StarSeries</td></tr>
+<tr><td>July 28 19:00</td></tr>
+<tr><td>2 : 1 magic</td></tr>
+
+<tr><td>StarLadder StarSeries</td></tr>
+<tr><td>July 28 19:00</td></tr>
+<tr><td>1 : 2 FURIA</td></tr>
+
+<tr><td>ESL Pro League</td></tr>
+<tr><td>July 23 17:00</td></tr>
+<tr><td>2 : 1 TYLOO</td></tr>
+<tr><td>ESL Pro League</td></tr>
+<tr><td>July 23 17:00</td></tr>
+<tr><td>0 : 2 BB</td></tr>
+<tr><td>ESL Pro League</td></tr>
+<tr><td>July 23 17:00</td></tr>
+<tr><td>0 : 2 MOUZ</td></tr>
+<tr><td>Ibuypower Masters</td></tr>
+<tr><td>July 23 17:00</td></tr>
+<tr><td>2 : 1 DENDELE</td></tr>
+
+<tr><td>ROG JOURNEY Autumn</td></tr>
+<tr><td>July 23 17:00</td></tr>
+<tr><td>1 : 2 NIP</td></tr>
+<tr><td>ROG JOURNEY Autumn</td></tr>
+<tr><td>July 23 17:00</td></tr>
+<tr><td>13 : 5 100Thieves</td></tr>
+<tr><td>ROG JOURNEY Autumn</td></tr>
+<tr><td>July 23 17:00</td></tr>
+<tr><td>13 : 6 NordicPartners</td></tr>
+<tr><td>ROG JOURNEY Autumn</td></tr>
+<tr><td>July 23 17:00</td></tr>
+<tr><td>13 : 3 Anteiku</td></tr>
+
+<tr><td>Stake Ranked</td></tr>
+<tr><td>July 21 00:00</td></tr>
+<tr><td>0 : 2 fnatic</td></tr>
+<tr><td>Stake Ranked</td></tr>
+<tr><td>July 21 00:00</td></tr>
+<tr><td>0 : 2 Nemiga</td></tr>
+<tr><td>Stake Ranked</td></tr>
+<tr><td>July 21 00:00</td></tr>
+<tr><td>2 : 1 Astralis</td></tr>
+<tr><td>1win Private Club</td></tr>
+<tr><td>July 21 00:00</td></tr>
+<tr><td>0 : 2 3DMAX</td></tr>
+
+<tr><td>1win Private Club</td></tr>
+<tr><td>July 22 12:00</td></tr>
+<tr><td>0 : 2 K27</td></tr>
+
+<tr><td>1win Private Club</td></tr>
+<tr><td>July 22 12:00</td></tr>
+<tr><td>1 : 2 magic</td></tr>
+
+<tr><td>Logitech G Play Connect</td></tr>
+<tr><td>July 22 12:00</td></tr>
+<tr><td>13 : 10 IC</td></tr>
+
+<tr><td>Logitech G Play Connect</td></tr>
+<tr><td>July 22 12:00</td></tr>
+<tr><td>13 : 3 INFINITE</td></tr>
+
+<tr><td>ESL Pro League</td></tr>
+<tr><td>July 22 12:00</td></tr>
+<tr><td>2 : 1 BB</td></tr>
+<tr><td>ESL Pro League</td></tr>
+<tr><td>July 22 12:00</td></tr>
+<tr><td>0 : 2 Falcons</td></tr>
+<tr><td>ESL Pro League</td></tr>
+<tr><td>July 22 12:00</td></tr>
+<tr><td>2 : 0 9z</td></tr>
+<tr><td>StarLadder StarSeries</td></tr>
+<tr><td>July 22 12:00</td></tr>
+<tr><td>1 : 3 Vitality</td></tr>
+
+<tr><td>Stake Ranked Q</td></tr>
+<tr><td>June 14 00:00</td></tr>
+<tr><td>0 : 2 IberianSoul</td></tr>
+<tr><td>Stake Pulse Beat II</td></tr>
+<tr><td>June 13 00:00</td></tr>
+<tr><td>0 : 2 fnatic</td></tr>
+<tr><td>Stake Pulse Beat II</td></tr>
+<tr><td>June 12 00:00</td></tr>
+<tr><td>1 : 2 100Thieves</td></tr>
+<tr><td>Stake Pulse Beat II</td></tr>
+<tr><td>June 11 00:00</td></tr>
+<tr><td>2 : 1 fnatic</td></tr>
+
+</table></body></html>
