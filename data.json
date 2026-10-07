@@ -1,20 +1,20 @@
 <?php header('Content-type: text/html; charset=utf-8'); ?><!DOCTYPE HTML><html lang ="pl"> <head><meta charset="utf-8"/> <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/></head><body><table>
 
-<tr><td>Waiting</td></tr>
-<tr><td>Waiting</td></tr>
-<tr><td>Waiting</td></tr>
+<tr><td>ESL Pro League</td></tr>
+<tr><td>October 9 13:00</td></tr>
+<tr><td>Vitality PV</td></tr>
 
-<tr><td>Waiting</td></tr>
-<tr><td>Waiting</td></tr>
-<tr><td>Waiting</td></tr>
+<tr><td>ESL Pro League</td></tr>
+<tr><td>October 9 15:30</td></tr>
+<tr><td>FURIA MOUZ</td></tr>
 
-<tr><td>Waiting</td></tr>
-<tr><td>Waiting</td></tr>
-<tr><td>Waiting</td></tr>
+<tr><td>ESL Pro League</td></tr>
+<tr><td>October 9 15:30</td></tr>
+<tr><td>FURIA MOUZ</td></tr>
 
-<tr><td>Waiting</td></tr>
-<tr><td>Waiting</td></tr>
-<tr><td>Waiting</td></tr>
+<tr><td>ESL Pro League</td></tr>
+<tr><td>October 9 18:00</td></tr>
+<tr><td>Spirit Falcons</td></tr>
 
 <tr><td>ESL Pro League</td></tr>
 <tr><td>July 24 17:50</td></tr>
@@ -81,8 +81,8 @@
 <tr><td>2 : 0 TYLOO</td></tr>
 
 <tr><td>ESL Pro League</td></tr>
-<tr><td>October 7 20:05</td></tr>
-<tr><td>Spirit M80</td></tr>
+<tr><td>October 9 18:00</td></tr>
+<tr><td>Spirit Falcons</td></tr>
 
 <tr><td>Waiting</td></tr>
 <tr><td>Waiting</td></tr>
@@ -100,13 +100,13 @@
 <tr><td>Waiting</td></tr>
 <tr><td>Waiting</td></tr>
 
-<tr><td>Waiting</td></tr>
-<tr><td>Waiting</td></tr>
-<tr><td>Waiting</td></tr>
+<tr><td>ESL Pro League</td></tr>
+<tr><td>October 9 10:30</td></tr>
+<tr><td>Aurora 1win</td></tr>
 
-<tr><td>Waiting</td></tr>
-<tr><td>Waiting</td></tr>
-<tr><td>Waiting</td></tr>
+<tr><td>ESL Pro League</td></tr>
+<tr><td>October 9 13:00</td></tr>
+<tr><td>Vitality PV</td></tr>
 
 <tr><td>Waiting</td></tr>
 <tr><td>Waiting</td></tr>
@@ -148,9 +148,9 @@
 <tr><td>October 15 12:00</td></tr>
 <tr><td>Envy HEROIC</td></tr>
 
-<tr><td>Waiting</td></tr>
-<tr><td>Waiting</td></tr>
-<tr><td>Waiting</td></tr>
+<tr><td>Roman Imperium Cup</td></tr>
+<tr><td>October 8 18:30</td></tr>
+<tr><td>FaZe TBD</td></tr>
 
 <tr><td>Waiting</td></tr>
 <tr><td>Waiting</td></tr>
@@ -168,9 +168,9 @@
 <tr><td>October 15 12:00</td></tr>
 <tr><td>MIBR BC.Game</td></tr>
 
-<tr><td>ESL Pro League</td></tr>
-<tr><td>October 7 20:05</td></tr>
-<tr><td>Spirit M80</td></tr>
+<tr><td>Waiting</td></tr>
+<tr><td>Waiting</td></tr>
+<tr><td>Waiting</td></tr>
 
 <tr><td>1win Private Club Q</td></tr>
 <tr><td>October 8 14:00</td></tr>
@@ -186,6 +186,10 @@
 
 <tr><td>ESL Pro League</td></tr>
 <tr><td>July 25 18:00</td></tr>
+<tr><td>2 : 0 M80</td></tr>
+
+<tr><td>ESL Pro League</td></tr>
+<tr><td>July 25 18:00</td></tr>
 <tr><td>0 : 2 1win</td></tr>
 
 <tr><td>ESL Pro League</td></tr>
@@ -195,10 +199,6 @@
 <tr><td>ESL Pro League</td></tr>
 <tr><td>July 25 18:00</td></tr>
 <tr><td>2 : 1 PV</td></tr>
-
-<tr><td>ESL Pro League</td></tr>
-<tr><td>July 25 18:00</td></tr>
-<tr><td>2 : 1 ShindeN</td></tr>
 
 <tr><td>ESL Pro League</td></tr>
 <tr><td>June 20 19:00</td></tr>
@@ -506,6 +506,9 @@
 
 <tr><td>ESL Pro League</td></tr>
 <tr><td>July 23 17:00</td></tr>
+<tr><td>0 : 2 Spirit</td></tr>
+<tr><td>ESL Pro League</td></tr>
+<tr><td>July 23 17:00</td></tr>
 <tr><td>2 : 1 Legacy</td></tr>
 <tr><td>ESL Pro League</td></tr>
 <tr><td>July 23 17:00</td></tr>
@@ -513,9 +516,6 @@
 <tr><td>ESL Pro League</td></tr>
 <tr><td>July 23 17:00</td></tr>
 <tr><td>0 : 2 BB</td></tr>
-<tr><td>ESL Pro League</td></tr>
-<tr><td>July 23 17:00</td></tr>
-<tr><td>0 : 2 MOUZ</td></tr>
 
 <tr><td>ROG JOURNEY Autumn</td></tr>
 <tr><td>July 23 17:00</td></tr>
