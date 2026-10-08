@@ -1,22 +1,22 @@
 <?php header('Content-type: text/html; charset=utf-8'); ?><!DOCTYPE HTML><html lang ="pl"> <head><meta charset="utf-8"/> <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/></head><body><table>
 
-<tr>Koszykówka</tr>
-<tr>Wisla Krakow W Gorzow W</tr> 
-<tr>07.10 18:00</tr> 
+<tr>Piłkarska 3 liga</tr>
+<tr>Polkowice Stilon Gorzów</tr> 
+<tr>9.10 15:30</tr> 
 
 <tr>Piłkarska 3 liga</tr>
 <tr>Warta Gorzów Nysa</tr> 
 <tr>10.10 15:00</tr> 
 
-<tr>Piłkarska 3 liga</tr>
-<tr>Polkowice Stilon Gorzów</tr> 
-<tr>09.10 15:30</tr> 
+<tr>Koszykówka</tr>
+<tr>Gorzow W Basket 25 Bydgoszcz W</tr> 
+<tr>11.10 18:00</tr> 
 
 <tr>Piłka ręczna</tr>
 <tr>Ciechanów Aurum Gorzów H</tr> 
 <tr>16.10 19:00</tr> 
 
-<tr>1 Warta Zawiercie</tr> <tr>0 0 0 0:0 0</tr> <tr>2 Barkom Każany Lwów</tr> <tr>0 0 0 0:0 0</tr> <tr>3 ChKS Chełm</tr> <tr>0 0 0 0:0 0</tr> <tr>4 Cuprum Stilon Gorzów</tr> <tr>0 0 0 0:0 0</tr> <tr>5 GKS Katowice</tr> <tr>0 0 0 0:0 0</tr> <tr>Belchatow Cuprum Gorzow</tr> <tr>3:1 (25:27, 25:17, 25:19, 25:22)</tr> <tr>9 Wisła Kraków</tr> <tr>2 2 0 - 2 0 </tr> <tr>10 Wichoś Jelenia Góra</tr> <tr>2 2 0 - 2 0 </tr> <tr>11 Artego Bydgoszcz</tr> <tr>2 2 0 - 2 0 </tr> <tr>12 MB Zagłębie Sosnowiec</tr> <tr>2 2 0 - 2 0 </tr> <tr>13 AJP Gorzów Wielkopolski</tr> <tr>1 1 0 - 1 0 </tr> <tr>Widzew Lodz W Gorzow W</tr> <tr> 76:71 </tr> <tr>9 Jelenia Góra</tr> <tr>15 11 4 3 4 12:9</tr> <tr>10 Miedź II Legnica</tr> <tr>14 11 4 2 5 25:21</tr> <tr>11 Warta Gorzów</tr> <tr>14 11 3 5 3 11:17</tr> <tr>12 MKS Kluczbork</tr> <tr>12 10 4 0 6 10:17</tr> <tr>13 Goczałkowice-Zdrój</tr> <tr>11 11 3 2 6 11:16</tr> <tr>Sparta Katowice Warta Gorzów</tr> <tr>1:1 (0:1, 1:0)</tr> <tr>1. Aurum Gorzów</tr> <tr>4 4 0 12</tr> <tr>2. AZS AGH Kraków</tr> <tr>4 3 1 10</tr> <tr>3. Pogoń Szczecin</tr> <tr>4 3 1 9</tr> <tr>4. MKS Zagłębie Lubin</tr> <tr>3 3 0 8</tr> <tr>5. AWF Biała Podlaska</tr> <tr>4 3 1 8</tr> <tr>Gwardia Koszalin Aurum Gorzów H</tr> <tr>29:30 (16:16, 13:14)</tr> <tr>5 Bayersystem GKM Grudziądz</tr> <tr>14 2 17 7 1 6 +11</tr> <tr>6 Gezet Stal Gorzów</tr> <tr>14 3 16 6 1 7 +13</tr> <tr>7 Falubaz Zielona Góra</tr> <tr>14 1 11 5 0 9 -100</tr> <tr>8 Włókniarz Częstochowa</tr> <tr>14 0 0 0 0 14 -270</tr> <tr></tr> <tr></tr> <tr>5 Zagłębie Sosnowiec</tr> <tr>19 10 6 1 3 15:9</tr> <tr>6 ROW Rybnik</tr> <tr>17 11 5 2 4 23:18</tr> <tr>7 Stilon Gorzów</tr> <tr>16 11 4 4 3 19:15</tr> <tr>8 Górnik Polkowice</tr> <tr>15 11 4 3 4 19:18</tr> <tr>9 Jelenia Góra</tr> <tr>15 11 4 3 4 12:9</tr> <tr>Stilon Gorzów Sulow</tr> <tr>2:1 (2:0, 0:1)</tr> 
+<tr>1 Warta Zawiercie</tr> <tr>0 0 0 0:0 0</tr> <tr>2 Barkom Każany Lwów</tr> <tr>0 0 0 0:0 0</tr> <tr>3 ChKS Chełm</tr> <tr>0 0 0 0:0 0</tr> <tr>4 Cuprum Stilon Gorzów</tr> <tr>0 0 0 0:0 0</tr> <tr>5 GKS Katowice</tr> <tr>0 0 0 0:0 0</tr> <tr>Belchatow Cuprum Gorzow</tr> <tr>3:1 (25:27, 25:17, 25:19, 25:22)</tr> <tr>9 AZS Politechnika Poznań</tr> <tr>4 2 2 - 0 1 </tr> <tr>10 AJP Gorzów Wielkopolski</tr> <tr>3 2 1 - 1 0 </tr> <tr>11 PGE Wisła Kraków</tr> <tr>3 3 0 - 3 0 </tr> <tr>12 Wichoś Jelenia Góra</tr> <tr>3 3 0 - 3 0 </tr> <tr>13 Artego Bydgoszcz</tr> <tr>3 3 0 - 3 0 </tr> <tr>Wisla Krakow W Gorzow W</tr> <tr> 57:77 </tr> <tr>9 Jelenia Góra</tr> <tr>15 11 4 3 4 12:9</tr> <tr>10 Miedź II Legnica</tr> <tr>14 11 4 2 5 25:21</tr> <tr>11 Warta Gorzów</tr> <tr>14 11 3 5 3 11:17</tr> <tr>12 MKS Kluczbork</tr> <tr>12 10 4 0 6 10:17</tr> <tr>13 Goczałkowice-Zdrój</tr> <tr>11 11 3 2 6 11:16</tr> <tr>Sparta Katowice Warta Gorzów</tr> <tr>1:1 (0:1, 1:0)</tr> <tr>1. Aurum Gorzów</tr> <tr>4 4 0 12</tr> <tr>2. MKS Zagłębie Lubin</tr> <tr>4 4 0 11</tr> <tr>3. AZS AGH Kraków</tr> <tr>4 3 1 10</tr> <tr>4. Pogoń Szczecin</tr> <tr>4 3 1 9</tr> <tr>5. AWF Biała Podlaska</tr> <tr>4 3 1 8</tr> <tr>Gwardia Koszalin Aurum Gorzów H</tr> <tr>29:30 (16:16, 13:14)</tr> <tr>5 Bayersystem GKM Grudziądz</tr> <tr>14 2 17 7 1 6 +11</tr> <tr>6 Gezet Stal Gorzów</tr> <tr>14 3 16 6 1 7 +13</tr> <tr>7 Falubaz Zielona Góra</tr> <tr>14 1 11 5 0 9 -100</tr> <tr>8 Włókniarz Częstochowa</tr> <tr>14 0 0 0 0 14 -270</tr> <tr></tr> <tr></tr> <tr>5 Zagłębie Sosnowiec</tr> <tr>19 10 6 1 3 15:9</tr> <tr>6 ROW Rybnik</tr> <tr>17 11 5 2 4 23:18</tr> <tr>7 Stilon Gorzów</tr> <tr>16 11 4 4 3 19:15</tr> <tr>8 Górnik Polkowice</tr> <tr>15 11 4 3 4 19:18</tr> <tr>9 Jelenia Góra</tr> <tr>15 11 4 3 4 12:9</tr> <tr>Stilon Gorzów Sulow</tr> <tr>2:1 (2:0, 0:1)</tr> 
 
 <tr>TaurunLiga</tr>
 <tr>ChKS Chelm Cuprum Gorzow</tr> 
