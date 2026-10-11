@@ -1,20 +1,24 @@
 <?php header('Content-type: text/html; charset=utf-8'); ?><!DOCTYPE HTML><html lang ="pl"> <head><meta charset="utf-8"/> <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/></head><body><table>
 
-<tr><td>ESL Pro League</td></tr>
-<tr><td>October 11 17:00</td></tr>
-<tr><td>Vitality MOUZ</td></tr>
+<tr><td>Waiting</td></tr>
+<tr><td>Waiting</td></tr>
+<tr><td>Waiting</td></tr>
 
 <tr><td>Thunderpick</td></tr>
 <tr><td>October 14 18:00</td></tr>
 <tr><td>FURIA BB</td></tr>
 
-<tr><td>ESL Pro League</td></tr>
-<tr><td>October 11 17:00</td></tr>
-<tr><td>Vitality MOUZ</td></tr>
+<tr><td>Waiting</td></tr>
+<tr><td>Waiting</td></tr>
+<tr><td>Waiting</td></tr>
 
 <tr><td>Thunderpick</td></tr>
 <tr><td>October 14 13:00</td></tr>
 <tr><td>Falcons NIP</td></tr>
+
+<tr><td>ESL Pro League</td></tr>
+<tr><td>July 24 17:50</td></tr>
+<tr><td>3 : 0 MOUZ</td></tr>
 
 <tr><td>ESL Pro League</td></tr>
 <tr><td>July 24 17:50</td></tr>
@@ -27,10 +31,6 @@
 <tr><td>ESL Pro League</td></tr>
 <tr><td>July 24 17:50</td></tr>
 <tr><td>2 : 1 Falcons</td></tr>
-
-<tr><td>ESL Pro League</td></tr>
-<tr><td>July 24 17:50</td></tr>
-<tr><td>2 : 1 NAVI</td></tr>
 
 <tr><td>ESL Pro League</td></tr>
 <tr><td>July 24 20:00</td></tr>
@@ -50,6 +50,10 @@
 
 <tr><td>ESL Pro League</td></tr>
 <tr><td>July 25 17:25</td></tr>
+<tr><td>0 : 3 Vitality</td></tr>
+
+<tr><td>ESL Pro League</td></tr>
+<tr><td>July 25 17:25</td></tr>
 <tr><td>2 : 1 Spirit</td></tr>
 
 <tr><td>ESL Pro League</td></tr>
@@ -59,10 +63,6 @@
 <tr><td>ESL Pro League</td></tr>
 <tr><td>July 25 17:25</td></tr>
 <tr><td>2 : 0 Spirit</td></tr>
-
-<tr><td>ESL Pro League</td></tr>
-<tr><td>July 25 17:25</td></tr>
-<tr><td>2 : 0 FURIA</td></tr>
 
 <tr><td>ESL Pro League</td></tr>
 <tr><td>July 22 17:30</td></tr>
