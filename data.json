@@ -1,20 +1,20 @@
 <?php header('Content-type: text/html; charset=utf-8'); ?><!DOCTYPE HTML><html lang ="pl"> <head><meta charset="utf-8"/> <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/></head><body><table>
 
-<tr><td>Waiting</td></tr>
-<tr><td>Waiting</td></tr>
-<tr><td>Waiting</td></tr>
+<tr><td>PGL Bucharest</td></tr>
+<tr><td>October 24 15:00</td></tr>
+<tr><td>Vitality 9z</td></tr>
 
-<tr><td>Waiting</td></tr>
-<tr><td>Waiting</td></tr>
-<tr><td>Waiting</td></tr>
+<tr><td>Thunderpick</td></tr>
+<tr><td>October 17 16:00</td></tr>
+<tr><td>FURIA Aurora</td></tr>
 
-<tr><td>Waiting</td></tr>
-<tr><td>Waiting</td></tr>
-<tr><td>Waiting</td></tr>
+<tr><td>PGL Bucharest</td></tr>
+<tr><td>October 24 12:00</td></tr>
+<tr><td>MOUZ Liquid</td></tr>
 
-<tr><td>Waiting</td></tr>
-<tr><td>Waiting</td></tr>
-<tr><td>Waiting</td></tr>
+<tr><td>Thunderpick</td></tr>
+<tr><td>October 17 19:00</td></tr>
+<tr><td>Falcons TDB</td></tr>
 
 <tr><td>ESL Pro League</td></tr>
 <tr><td>July 24 17:50</td></tr>
@@ -80,41 +80,41 @@
 <tr><td>July 22 17:30</td></tr>
 <tr><td>2 : 1 NAVI</td></tr>
 
-<tr><td>Waiting</td></tr>
-<tr><td>Waiting</td></tr>
-<tr><td>Waiting</td></tr>
+<tr><td>PGL Bucharest</td></tr>
+<tr><td>October 24 12:00</td></tr>
+<tr><td>Spirit BB</td></tr>
 
-<tr><td>Waiting</td></tr>
-<tr><td>Waiting</td></tr>
-<tr><td>Waiting</td></tr>
+<tr><td>PGL Bucharest</td></tr>
+<tr><td>October 24 18:00</td></tr>
+<tr><td>NAVI G2</td></tr>
 
 <tr><td>1win Private Club</td></tr>
 <tr><td>October 19 14:00</td></tr>
 <tr><td>MongolZ Alliance</td></tr>
 
-<tr><td>Stake Pulse Beat</td></tr>
-<tr><td>October 16 16:00</td></tr>
-<tr><td>MIBR Astralis</td></tr>
+<tr><td>Stake Ranked</td></tr>
+<tr><td>October 27 17:00</td></tr>
+<tr><td>Astralis fnatic</td></tr>
 
-<tr><td>Waiting</td></tr>
-<tr><td>Waiting</td></tr>
-<tr><td>Waiting</td></tr>
+<tr><td>PGL Bucharest</td></tr>
+<tr><td>October 24 19:00</td></tr>
+<tr><td>FUT TYLOO</td></tr>
 
 <tr><td>Thunderpick</td></tr>
-<tr><td>October 16 16:00</td></tr>
-<tr><td>Aurora 9z</td></tr>
+<tr><td>October 17 16:00</td></tr>
+<tr><td>FURIA Aurora</td></tr>
 
 <tr><td>1win Private Club</td></tr>
 <tr><td>October 19 20:00</td></tr>
 <tr><td>PV magic</td></tr>
 
-<tr><td>Waiting</td></tr>
-<tr><td>Waiting</td></tr>
-<tr><td>Waiting</td></tr>
+<tr><td>PGL Bucharest</td></tr>
+<tr><td>October 24 18:00</td></tr>
+<tr><td>NAVI G2</td></tr>
 
-<tr><td>Thunderpick</td></tr>
-<tr><td>October 16 16:00</td></tr>
-<tr><td>Aurora 9z</td></tr>
+<tr><td>PGL Bucharest</td></tr>
+<tr><td>October 24 15:00</td></tr>
+<tr><td>Vitality 9z</td></tr>
 
 <tr><td>Waiting</td></tr>
 <tr><td>Waiting</td></tr>
@@ -133,8 +133,8 @@
 <tr><td>Legacy BB</td></tr>
 
 <tr><td>Elisa BreakOut</td></tr>
-<tr><td>October 16 10:00</td></tr>
-<tr><td>Phantom Voca</td></tr>
+<tr><td>October 17 14:00</td></tr>
+<tr><td>Phantom ENCE</td></tr>
 
 <tr><td>Digital Crusade DraculaN</td></tr>
 <tr><td>October 20 13:00</td></tr>
@@ -145,8 +145,8 @@
 <tr><td>Waiting</td></tr>
 
 <tr><td>Stake Pulse Beat</td></tr>
-<tr><td>October 16 13:00</td></tr>
-<tr><td>HEROIC fnatic</td></tr>
+<tr><td>October 17 10:00</td></tr>
+<tr><td>HEROIC NIP</td></tr>
 
 <tr><td>Digital Crusade DraculaN</td></tr>
 <tr><td>October 20 13:00</td></tr>
@@ -157,16 +157,16 @@
 <tr><td>BIG PRIVATE</td></tr>
 
 <tr><td>Stake Pulse Beat</td></tr>
-<tr><td>October 16 10:00</td></tr>
-<tr><td>NIP Liquid</td></tr>
+<tr><td>October 17 10:00</td></tr>
+<tr><td>HEROIC NIP</td></tr>
 
 <tr><td>PGL Bucharest Q</td></tr>
-<tr><td>October 16 10:00</td></tr>
-<tr><td>Betclic EthernalFire</td></tr>
+<tr><td>October 17 16:00</td></tr>
+<tr><td>Betclic Nemesis</td></tr>
 
 <tr><td>Stake Pulse Beat</td></tr>
-<tr><td>October 16 16:00</td></tr>
-<tr><td>MIBR Astralis</td></tr>
+<tr><td>October 17 13:00</td></tr>
+<tr><td>MIBR 100Thieves</td></tr>
 
 <tr><td>Waiting</td></tr>
 <tr><td>Waiting</td></tr>
@@ -181,8 +181,8 @@
 <tr><td>MongolZ Alliance</td></tr>
 
 <tr><td>PGL Bucharest Q</td></tr>
-<tr><td>October 16 16:00</td></tr>
-<tr><td>Eyeallers B.BL</td></tr>
+<tr><td>October 17 13:00</td></tr>
+<tr><td>Eyeallers TDB</td></tr>
 
 <tr><td>ESL Pro League</td></tr>
 <tr><td>July 25 18:00</td></tr>
@@ -234,6 +234,10 @@
 
 <tr><td>Stake Pulse Beat</td></tr>
 <tr><td>August 1 18:00</td></tr>
+<tr><td>1 : 2 MIBR</td></tr>
+
+<tr><td>Stake Pulse Beat</td></tr>
+<tr><td>August 1 18:00</td></tr>
 <tr><td>2 : 1 HOTU</td></tr>
 
 <tr><td>Stake Pulse Beat</td></tr>
@@ -243,10 +247,6 @@
 <tr><td>ESL Pro League</td></tr>
 <tr><td>August 1 18:00</td></tr>
 <tr><td>3 : 1 Nemiga</td></tr>
-
-<tr><td>ESL Pro League</td></tr>
-<tr><td>August 1 18:00</td></tr>
-<tr><td>2 : 1 Luminosity</td></tr>
 
 <tr><td>BLAST Open Fall 2026</td></tr>
 <tr><td>July 25 18:00</td></tr>
@@ -298,6 +298,10 @@
 
 <tr><td>Thunderpick</td></tr>
 <tr><td>July 12 12:00</td></tr>
+<tr><td>0 : 2 Aurora</td></tr>
+
+<tr><td>Thunderpick</td></tr>
+<tr><td>July 12 12:00</td></tr>
 <tr><td>1 : 2 Falcons</td></tr>
 
 <tr><td>Thunderpick</td></tr>
@@ -307,10 +311,6 @@
 <tr><td>ESL Pro League</td></tr>
 <tr><td>July 12 12:00</td></tr>
 <tr><td>0 : 2 FURIA</td></tr>
-
-<tr><td>ESL Pro League</td></tr>
-<tr><td>July 12 12:00</td></tr>
-<tr><td>2 : 0 BB</td></tr>
 
 <tr><td>FERJEE In House</td></tr>
 <tr><td>July 26 14:00</td></tr>
@@ -410,6 +410,10 @@
 
 <tr><td>Stake Pulse Beat III</td></tr>
 <tr><td>July 25 18:00</td></tr>
+<tr><td>2 : 0 fnatic</td></tr>
+
+<tr><td>Stake Pulse Beat III</td></tr>
+<tr><td>July 25 18:00</td></tr>
 <tr><td>2 : 0 BC.Game</td></tr>
 
 <tr><td>Stake Pulse Beat III</td></tr>
@@ -419,10 +423,6 @@
 <tr><td>Stake Pulse Beat II</td></tr>
 <tr><td>July 25 18:00</td></tr>
 <tr><td>2 : 1 100Thieves</td></tr>
-
-<tr><td>Stake Pulse Beat II</td></tr>
-<tr><td>July 25 18:00</td></tr>
-<tr><td>2 : 1 Sangal</td></tr>
 
 <tr><td>Roman Imperium Cup</td></tr>
 <tr><td>July 25 12:00</td></tr>
@@ -456,6 +456,10 @@
 <tr><td>July 10 12:00</td></tr>
 <tr><td>1 : 2 G2</td></tr>
 
+<tr><td>Stake Pulse Beat</td></tr>
+<tr><td>July 26 20:35</td></tr>
+<tr><td>2 : 1 Liquid</td></tr>
+
 <tr><td>Thunderpick</td></tr>
 <tr><td>July 26 20:35</td></tr>
 <tr><td>0 : 2 Aurora</td></tr>
@@ -468,9 +472,9 @@
 <tr><td>July 26 20:35</td></tr>
 <tr><td>2 : 0 IC</td></tr>
 
-<tr><td>Stake Pulse Beat</td></tr>
-<tr><td>July 26 20:35</td></tr>
-<tr><td>2 : 1 Betclic</td></tr>
+<tr><td>PGL Bucharest Q</td></tr>
+<tr><td>July 25 18:00</td></tr>
+<tr><td>2 : 1 EternalFire</td></tr>
 
 <tr><td>Stake Pulse Beat</td></tr>
 <tr><td>July 25 18:00</td></tr>
@@ -484,9 +488,9 @@
 <tr><td>July 25 18:00</td></tr>
 <tr><td>0 : 2 PRIVATE</td></tr>
 
-<tr><td>Stake Pulse Beat II</td></tr>
-<tr><td>July 25 18:00</td></tr>
-<tr><td>1 : 2 Astralis</td></tr>
+<tr><td>Stake Pulse Beat</td></tr>
+<tr><td>July 28 19:00</td></tr>
+<tr><td>2 : 1 Astralis</td></tr>
 
 <tr><td>Stake Pulse Beat</td></tr>
 <tr><td>July 28 19:00</td></tr>
@@ -499,10 +503,6 @@
 <tr><td>Stake Pulse Beat</td></tr>
 <tr><td>July 28 19:00</td></tr>
 <tr><td>1 : 2 BC.Game</td></tr>
-
-<tr><td>StarLadder StarSeries</td></tr>
-<tr><td>July 28 19:00</td></tr>
-<tr><td>0 : 2 FURIA</td></tr>
 
 <tr><td>ESL Pro League</td></tr>
 <tr><td>July 23 17:00</td></tr>
@@ -543,6 +543,10 @@
 <tr><td>July 21 00:00</td></tr>
 <tr><td>0 : 2 3DMAX</td></tr>
 
+<tr><td>PGL Bucharest Q</td></tr>
+<tr><td>July 22 12:00</td></tr>
+<tr><td>0 : 2 B.BL</td></tr>
+
 <tr><td>1win Private Club</td></tr>
 <tr><td>July 22 12:00</td></tr>
 <tr><td>0 : 2 K27</td></tr>
@@ -555,10 +559,9 @@
 <tr><td>July 22 12:00</td></tr>
 <tr><td>13 : 10 IC</td></tr>
 
-<tr><td>Logitech G Play Connect</td></tr>
+<tr><td>Thunderpick</td></tr>
 <tr><td>July 22 12:00</td></tr>
-<tr><td>13 : 3 INFINITE</td></tr>
-
+<tr><td>2 : 0 9z</td></tr>
 <tr><td>Thunderpick</td></tr>
 <tr><td>July 22 12:00</td></tr>
 <tr><td>2 : 0 NIP</td></tr>
@@ -568,21 +571,18 @@
 <tr><td>ESL Pro League</td></tr>
 <tr><td>July 22 12:00</td></tr>
 <tr><td>2 : 0 Spirit</td></tr>
-<tr><td>ESL Pro League</td></tr>
-<tr><td>July 22 12:00</td></tr>
-<tr><td>1 : 2 Vitality</td></tr>
 
-<tr><td>1win Private Q</td></tr>
+<tr><td>Elisa BreakOut</td></tr>
 <tr><td>June 14 00:00</td></tr>
-<tr><td>1 : 2 fnatic</td></tr>
-<tr><td>Stake Ranked Q</td></tr>
+<tr><td>13 : 4 HAVU</td></tr>
+<tr><td>Elisa BreakOut</td></tr>
 <tr><td>June 14 00:00</td></tr>
-<tr><td>0 : 2 IberianSoul</td></tr>
-<tr><td>Stake Pulse Beat II</td></tr>
-<tr><td>June 13 00:00</td></tr>
-<tr><td>0 : 2 fnatic</td></tr>
-<tr><td>Stake Pulse Beat II</td></tr>
-<tr><td>June 12 00:00</td></tr>
-<tr><td>1 : 2 100Thieves</td></tr>
+<tr><td>13 : 6 ROUNDS</td></tr>
+<tr><td>Elisa BreakOut</td></tr>
+<tr><td>June 14 00:00</td></tr>
+<tr><td>13 : 4 Voca</td></tr>
+<tr><td>PGL Bucharest Q</td></tr>
+<tr><td>June 14 00:00</td></tr>
+<tr><td>1 : 2 NuclearTigeRES</td></tr>
 
 </table></body></html>
