@@ -1,16 +1,16 @@
 <?php header('Content-type: text/html; charset=utf-8'); ?><!DOCTYPE HTML><html lang ="pl"> <head><meta charset="utf-8"/> <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/></head><body><table>
 
-<tr><td>Waiting</td></tr>
-<tr><td>Waiting</td></tr>
-<tr><td>Waiting</td></tr>
+<tr><td>PGL Bucharest</td></tr>
+<tr><td>October 27 18:00</td></tr>
+<tr><td>NAVI Vitality</td></tr>
 
-<tr><td>Waiting</td></tr>
-<tr><td>Waiting</td></tr>
-<tr><td>Waiting</td></tr>
+<tr><td>PGL Bucharest</td></tr>
+<tr><td>October 27 18:00</td></tr>
+<tr><td>FURIA TYLOO</td></tr>
 
-<tr><td>Waiting</td></tr>
-<tr><td>Waiting</td></tr>
-<tr><td>Waiting</td></tr>
+<tr><td>PGL Bucharest</td></tr>
+<tr><td>October 27 15:00</td></tr>
+<tr><td>MOUZ Spirit</td></tr>
 
 <tr><td>IEM Beijing</td></tr>
 <tr><td>November 2 08:00</td></tr>
@@ -80,17 +80,17 @@
 <tr><td>July 22 17:30</td></tr>
 <tr><td>2 : 0 NIP</td></tr>
 
-<tr><td>Waiting</td></tr>
-<tr><td>Waiting</td></tr>
-<tr><td>Waiting</td></tr>
+<tr><td>PGL Bucharest</td></tr>
+<tr><td>October 27 15:00</td></tr>
+<tr><td>MOUZ Spirit</td></tr>
 
 <tr><td>PGL Bucharest</td></tr>
-<tr><td>October 26 18:00</td></tr>
-<tr><td>NAVI BB</td></tr>
+<tr><td>October 27 18:00</td></tr>
+<tr><td>NAVI Vitality</td></tr>
 
-<tr><td>Waiting</td></tr>
-<tr><td>Waiting</td></tr>
-<tr><td>Waiting</td></tr>
+<tr><td>PGL Bucharest</td></tr>
+<tr><td>October 27 15:00</td></tr>
+<tr><td>MongolZ Legacy</td></tr>
 
 <tr><td>Stake Ranked</td></tr>
 <tr><td>October 27 17:00</td></tr>
@@ -100,37 +100,37 @@
 <tr><td>Waiting</td></tr>
 <tr><td>Waiting</td></tr>
 
-<tr><td>Waiting</td></tr>
-<tr><td>Waiting</td></tr>
-<tr><td>Waiting</td></tr>
+<tr><td>PGL Bucharest</td></tr>
+<tr><td>October 27 12:00</td></tr>
+<tr><td>Aurora Liquid</td></tr>
 
 <tr><td>IEM Beijing</td></tr>
 <tr><td>November 2 08:00</td></tr>
 <tr><td>PV G2</td></tr>
 
+<tr><td>IEM Beijing</td></tr>
+<tr><td>November 2 08:00</td></tr>
+<tr><td>PV G2</td></tr>
+
+<tr><td>IEM Beijing</td></tr>
+<tr><td>November 2 08:00</td></tr>
+<tr><td>9z BB</td></tr>
+
+<tr><td>Waiting</td></tr>
+<tr><td>Waiting</td></tr>
+<tr><td>Waiting</td></tr>
+
 <tr><td>PGL Bucharest</td></tr>
-<tr><td>October 26 18:00</td></tr>
-<tr><td>G2 DENDELE</td></tr>
-
-<tr><td>Waiting</td></tr>
-<tr><td>Waiting</td></tr>
-<tr><td>Waiting</td></tr>
-
-<tr><td>Waiting</td></tr>
-<tr><td>Waiting</td></tr>
-<tr><td>Waiting</td></tr>
-
-<tr><td>Waiting</td></tr>
-<tr><td>Waiting</td></tr>
-<tr><td>Waiting</td></tr>
+<tr><td>October 27 15:00</td></tr>
+<tr><td>MongolZ Legacy</td></tr>
 
 <tr><td>RLG Tesla Cup</td></tr>
 <tr><td>October 27 21:00</td></tr>
 <tr><td>GL Envy</td></tr>
 
-<tr><td>PGL Bucharest</td></tr>
-<tr><td>October 26 18:00</td></tr>
-<tr><td>NAVI BB</td></tr>
+<tr><td>Waiting</td></tr>
+<tr><td>Waiting</td></tr>
+<tr><td>Waiting</td></tr>
 
 <tr><td>Waiting</td></tr>
 <tr><td>Waiting</td></tr>
@@ -202,6 +202,10 @@
 
 <tr><td>PGL Masters Bucharest</td></tr>
 <tr><td>June 20 19:00</td></tr>
+<tr><td>0 : 2 BB</td></tr>
+
+<tr><td>PGL Masters Bucharest</td></tr>
+<tr><td>June 20 19:00</td></tr>
 <tr><td>2 : 0 FURIA</td></tr>
 
 <tr><td>PGL Masters Bucharest</td></tr>
@@ -211,10 +215,6 @@
 <tr><td>ESL Pro League</td></tr>
 <tr><td>June 20 19:00</td></tr>
 <tr><td>1 : 2 PV</td></tr>
-
-<tr><td>ESL Pro League</td></tr>
-<tr><td>June 20 19:00</td></tr>
-<tr><td>1 : 2 Falcons</td></tr>
 
 <tr><td>PGL Masters Bucharest</td></tr>
 <tr><td>July 25 18:00</td></tr>
@@ -282,6 +282,10 @@
 
 <tr><td>PGL Masters Bucharest</td></tr>
 <tr><td>July 23 17:00</td></tr>
+<tr><td>1 : 2 DENDELE</td></tr>
+
+<tr><td>PGL Masters Bucharest</td></tr>
+<tr><td>July 23 17:00</td></tr>
 <tr><td>0 : 2 Aurora</td></tr>
 
 <tr><td>PGL Masters Bucharest</td></tr>
@@ -291,10 +295,6 @@
 <tr><td>ESL Pro League</td></tr>
 <tr><td>July 23 17:00</td></tr>
 <tr><td>1 : 2 PV</td></tr>
-
-<tr><td>ESL Pro League</td></tr>
-<tr><td>July 23 17:00</td></tr>
-<tr><td>2 : 0 ShindeN</td></tr>
 
 <tr><td>PGL Masters Bucharest</td></tr>
 <tr><td>July 12 12:00</td></tr>
@@ -362,6 +362,10 @@
 
 <tr><td>PGL Masters Bucharest</td></tr>
 <tr><td>July 10 15:00</td></tr>
+<tr><td>2 : 0 NAVI</td></tr>
+
+<tr><td>PGL Masters Bucharest</td></tr>
+<tr><td>July 10 15:00</td></tr>
 <tr><td>2 : 0 Nemiga</td></tr>
 
 <tr><td>PGL Masters Bucharest</td></tr>
@@ -371,10 +375,6 @@
 <tr><td>Thunderpick</td></tr>
 <tr><td>July 10 15:00</td></tr>
 <tr><td>2 : 3 FURIA</td></tr>
-
-<tr><td>Thunderpick</td></tr>
-<tr><td>July 10 15:00</td></tr>
-<tr><td>2 : 1 Falcons</td></tr>
 
 <tr><td>Digital Crusade DraculaN</td></tr>
 <tr><td>July 26 14:15</td></tr>
