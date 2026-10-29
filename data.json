@@ -1,16 +1,16 @@
 <?php header('Content-type: text/html; charset=utf-8'); ?><!DOCTYPE HTML><html lang ="pl"> <head><meta charset="utf-8"/> <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/></head><body><table>
 
-<tr><td>Waiting</td></tr>
-<tr><td>Waiting</td></tr>
-<tr><td>Waiting</td></tr>
+<tr><td>PGL Bucharest</td></tr>
+<tr><td>October 29 12:00</td></tr>
+<tr><td>Vitality NAVI</td></tr>
 
 <tr><td>PGL Bucharest</td></tr>
-<tr><td>October 28 15:00</td></tr>
-<tr><td>FURIA Liquid</td></tr>
+<tr><td>October 29 18:00</td></tr>
+<tr><td>FURIA BB</td></tr>
 
-<tr><td>Waiting</td></tr>
-<tr><td>Waiting</td></tr>
-<tr><td>Waiting</td></tr>
+<tr><td>PGL Bucharest</td></tr>
+<tr><td>October 29 15:00</td></tr>
+<tr><td>MOUZ Aurora</td></tr>
 
 <tr><td>IEM Beijing</td></tr>
 <tr><td>November 2 08:00</td></tr>
@@ -34,6 +34,10 @@
 
 <tr><td>PGL Masters Bucharest</td></tr>
 <tr><td>July 24 20:00</td></tr>
+<tr><td>2 : 0 Liquid</td></tr>
+
+<tr><td>PGL Masters Bucharest</td></tr>
+<tr><td>July 24 20:00</td></tr>
 <tr><td>2 : 0 TYLOO</td></tr>
 
 <tr><td>PGL Masters Bucharest</td></tr>
@@ -43,10 +47,6 @@
 <tr><td>PGL Masters Bucharest</td></tr>
 <tr><td>July 24 20:00</td></tr>
 <tr><td>0 : 2 NAVI</td></tr>
-
-<tr><td>PGL Masters Bucharest</td></tr>
-<tr><td>July 24 20:00</td></tr>
-<tr><td>2 : 0 DENDELE</td></tr>
 
 <tr><td>PGL Masters Bucharest</td></tr>
 <tr><td>July 25 17:25</td></tr>
@@ -81,28 +81,28 @@
 <tr><td>2 : 0 NIP</td></tr>
 
 <tr><td>PGL Bucharest</td></tr>
-<tr><td>October 28 18:00</td></tr>
-<tr><td>Spirit NAVI</td></tr>
+<tr><td>November 11 08:00</td></tr>
+<tr><td>Spirit FUT</td></tr>
 
 <tr><td>PGL Bucharest</td></tr>
-<tr><td>October 28 18:00</td></tr>
-<tr><td>Spirit NAVI</td></tr>
+<tr><td>October 29 12:00</td></tr>
+<tr><td>Vitality NAVI</td></tr>
 
-<tr><td>PGL Bucharest</td></tr>
-<tr><td>October 28 12:00</td></tr>
-<tr><td>MongolZ Nemiga</td></tr>
+<tr><td>IEM Beijing</td></tr>
+<tr><td>November 2 08:00</td></tr>
+<tr><td>Legacy MongolZ</td></tr>
 
 <tr><td>Stake Ranked</td></tr>
-<tr><td>October 28 12:00</td></tr>
-<tr><td>Astralis magic</td></tr>
+<tr><td>October 29 14:30</td></tr>
+<tr><td>Astralis IC</td></tr>
 
-<tr><td>Waiting</td></tr>
-<tr><td>Waiting</td></tr>
-<tr><td>Waiting</td></tr>
+<tr><td>PGL Bucharest</td></tr>
+<tr><td>October 29 09:00</td></tr>
+<tr><td>FUT Nemiga</td></tr>
 
-<tr><td>Waiting</td></tr>
-<tr><td>Waiting</td></tr>
-<tr><td>Waiting</td></tr>
+<tr><td>PGL Bucharest</td></tr>
+<tr><td>October 29 15:00</td></tr>
+<tr><td>MOUZ Aurora</td></tr>
 
 <tr><td>IEM Beijing</td></tr>
 <tr><td>November 2 08:00</td></tr>
@@ -125,20 +125,20 @@
 <tr><td>Legacy MongolZ</td></tr>
 
 <tr><td>RLG Tesla Cup</td></tr>
-<tr><td>October 28 15:00</td></tr>
-<tr><td>GL HOTU</td></tr>
+<tr><td>October 29 13:00</td></tr>
+<tr><td>GL FaZe</td></tr>
+
+<tr><td>PGL Bucharest</td></tr>
+<tr><td>October 29 18:00</td></tr>
+<tr><td>FURIA BB</td></tr>
+
+<tr><td>CCT</td></tr>
+<tr><td>October 30 19:00</td></tr>
+<tr><td>Phantom Lavked</td></tr>
 
 <tr><td>Waiting</td></tr>
 <tr><td>Waiting</td></tr>
 <tr><td>Waiting</td></tr>
-
-<tr><td>Waiting</td></tr>
-<tr><td>Waiting</td></tr>
-<tr><td>Waiting</td></tr>
-
-<tr><td>RLG Tesla Cup</td></tr>
-<tr><td>October 28 18:00</td></tr>
-<tr><td>Envy Luminosity</td></tr>
 
 <tr><td>IEM Beijing</td></tr>
 <tr><td>November 2 08:00</td></tr>
@@ -148,41 +148,45 @@
 <tr><td>November 2 08:00</td></tr>
 <tr><td>B8 HEROIC</td></tr>
 
-<tr><td>Waiting</td></tr>
-<tr><td>Waiting</td></tr>
-<tr><td>Waiting</td></tr>
-
-<tr><td>Stake Ranked</td></tr>
-<tr><td>October 28 17:00</td></tr>
-<tr><td>BIG fnatic</td></tr>
-
-<tr><td>Waiting</td></tr>
-<tr><td>Waiting</td></tr>
-<tr><td>Waiting</td></tr>
-
-<tr><td>Waiting</td></tr>
-<tr><td>Waiting</td></tr>
-<tr><td>Waiting</td></tr>
-
-<tr><td>Stake Ranked</td></tr>
-<tr><td>October 28 19:30</td></tr>
-<tr><td>MIBR Inner$Circle</td></tr>
-
-<tr><td>Waiting</td></tr>
-<tr><td>Waiting</td></tr>
-<tr><td>Waiting</td></tr>
-
-<tr><td>Waiting</td></tr>
-<tr><td>Waiting</td></tr>
-<tr><td>Waiting</td></tr>
-
 <tr><td>RLG Tesla Cup</td></tr>
-<tr><td>October 28 09:00</td></tr>
-<tr><td>Alliance B8</td></tr>
+<tr><td>October 29 13:00</td></tr>
+<tr><td>GL FaZe</td></tr>
+
+<tr><td>Stake Ranked</td></tr>
+<tr><td>October 29 12:00</td></tr>
+<tr><td>BIG Eternal$Fire</td></tr>
 
 <tr><td>Waiting</td></tr>
 <tr><td>Waiting</td></tr>
 <tr><td>Waiting</td></tr>
+
+<tr><td>CCT</td></tr>
+<tr><td>October 30 16:00</td></tr>
+<tr><td>Betclic Illyrians</td></tr>
+
+<tr><td>Stake Ranked</td></tr>
+<tr><td>October 29 17:00</td></tr>
+<tr><td>MIBR fnatic</td></tr>
+
+<tr><td>Waiting</td></tr>
+<tr><td>Waiting</td></tr>
+<tr><td>Waiting</td></tr>
+
+<tr><td>Waiting</td></tr>
+<tr><td>Waiting</td></tr>
+<tr><td>Waiting</td></tr>
+
+<tr><td>Waiting</td></tr>
+<tr><td>Waiting</td></tr>
+<tr><td>Waiting</td></tr>
+
+<tr><td>Waiting</td></tr>
+<tr><td>Waiting</td></tr>
+<tr><td>Waiting</td></tr>
+
+<tr><td>PGL Masters Bucharest</td></tr>
+<tr><td>July 25 18:00</td></tr>
+<tr><td>1 : 2 NAVI</td></tr>
 
 <tr><td>PGL Masters Bucharest</td></tr>
 <tr><td>July 25 18:00</td></tr>
@@ -197,8 +201,8 @@
 <tr><td>2 : 0 TYLOO</td></tr>
 
 <tr><td>PGL Masters Bucharest</td></tr>
-<tr><td>July 25 18:00</td></tr>
-<tr><td>1 : 2 BB</td></tr>
+<tr><td>June 20 19:00</td></tr>
+<tr><td>2 : 1 Spirit</td></tr>
 
 <tr><td>PGL Masters Bucharest</td></tr>
 <tr><td>June 20 19:00</td></tr>
@@ -213,8 +217,8 @@
 <tr><td>2 : 0 FURIA</td></tr>
 
 <tr><td>PGL Masters Bucharest</td></tr>
-<tr><td>June 20 19:00</td></tr>
-<tr><td>2 : 0 G2</td></tr>
+<tr><td>July 25 18:00</td></tr>
+<tr><td>0 : 2 Nemiga</td></tr>
 
 <tr><td>PGL Masters Bucharest</td></tr>
 <tr><td>July 25 18:00</td></tr>
@@ -228,9 +232,9 @@
 <tr><td>July 25 18:00</td></tr>
 <tr><td>0 : 2 Vitality</td></tr>
 
-<tr><td>PGL Masters Bucharest</td></tr>
-<tr><td>July 25 18:00</td></tr>
-<tr><td>2 : 1 Aurora</td></tr>
+<tr><td>Stake Ranked</td></tr>
+<tr><td>August 1 18:00</td></tr>
+<tr><td>2 : 1 magic</td></tr>
 
 <tr><td>Stake Ranked</td></tr>
 <tr><td>August 1 18:00</td></tr>
@@ -243,10 +247,6 @@
 <tr><td>Stake Pulse Beat</td></tr>
 <tr><td>August 1 18:00</td></tr>
 <tr><td>2 : 1 HOTU</td></tr>
-
-<tr><td>Stake Pulse Beat</td></tr>
-<tr><td>August 1 18:00</td></tr>
-<tr><td>2 : 0 Sashi</td></tr>
 
 <tr><td>PGL Masters Bucharest</td></tr>
 <tr><td>July 25 18:00</td></tr>
@@ -346,19 +346,19 @@
 
 <tr><td>RLG Tesla Cup</td></tr>
 <tr><td>July 23 17:00</td></tr>
+<tr><td>2 : 0 Envy</td></tr>
+
+<tr><td>RLG Tesla Cup</td></tr>
+<tr><td>July 23 17:00</td></tr>
+<tr><td>0 : 2 HOTU</td></tr>
+
+<tr><td>RLG Tesla Cup</td></tr>
+<tr><td>July 23 17:00</td></tr>
 <tr><td>2 : 1 Envy</td></tr>
 
 <tr><td>PGL Bucharest Q</td></tr>
 <tr><td>July 23 17:00</td></tr>
 <tr><td>1 : 2 Eyeballers</td></tr>
-
-<tr><td>PGL Bucharest Q</td></tr>
-<tr><td>July 23 17:00</td></tr>
-<tr><td>0 : 2 ex@RUSTEC</td></tr>
-
-<tr><td>1win Private Club Q</td></tr>
-<tr><td>July 23 17:00</td></tr>
-<tr><td>1 : 2 PRIVATE</td></tr>
 
 <tr><td>PGL Masters Bucharest</td></tr>
 <tr><td>July 10 15:00</td></tr>
@@ -378,19 +378,19 @@
 
 <tr><td>RLG Tesla Cup</td></tr>
 <tr><td>July 26 14:15</td></tr>
+<tr><td>0 : 2 GL</td></tr>
+
+<tr><td>RLG Tesla Cup</td></tr>
+<tr><td>July 26 14:15</td></tr>
+<tr><td>2 : 1 Luminosity</td></tr>
+
+<tr><td>RLG Tesla Cup</td></tr>
+<tr><td>July 26 14:15</td></tr>
 <tr><td>1 : 2 GL</td></tr>
 
 <tr><td>Digital Crusade DraculaN</td></tr>
 <tr><td>July 26 14:15</td></tr>
 <tr><td>1 : 2 FaZe</td></tr>
-
-<tr><td>Digital Crusade DraculaN</td></tr>
-<tr><td>July 26 14:15</td></tr>
-<tr><td>2 : 0 INFINITE</td></tr>
-
-<tr><td>Digital Crusade DraculaN</td></tr>
-<tr><td>July 26 14:15</td></tr>
-<tr><td>0 : 2 BASEMENT$BOYS</td></tr>
 
 <tr><td>Stake Ranked</td></tr>
 <tr><td>July 10 15:00</td></tr>
@@ -442,6 +442,10 @@
 
 <tr><td>Stake Ranked</td></tr>
 <tr><td>July 10 12:00</td></tr>
+<tr><td>0 : 2 fnatic</td></tr>
+
+<tr><td>Stake Ranked</td></tr>
+<tr><td>July 10 12:00</td></tr>
 <tr><td>2 : 1 magic</td></tr>
 
 <tr><td>1win Private Club</td></tr>
@@ -451,10 +455,6 @@
 <tr><td>1win Private Club</td></tr>
 <tr><td>July 10 12:00</td></tr>
 <tr><td>0 : 2 PV</td></tr>
-
-<tr><td>1win Private Club</td></tr>
-<tr><td>July 10 12:00</td></tr>
-<tr><td>2 : 0 MongolZ</td></tr>
 
 <tr><td>Stake Pulse Beat</td></tr>
 <tr><td>July 26 20:35</td></tr>
@@ -490,6 +490,10 @@
 
 <tr><td>Stake Ranked</td></tr>
 <tr><td>July 28 19:00</td></tr>
+<tr><td>2 : 0 IC</td></tr>
+
+<tr><td>Stake Ranked</td></tr>
+<tr><td>July 28 19:00</td></tr>
 <tr><td>2 : 1 Eternal$Fire</td></tr>
 
 <tr><td>Stake Pulse Beat</td></tr>
@@ -499,10 +503,6 @@
 <tr><td>Stake Pulse Beat</td></tr>
 <tr><td>July 28 19:00</td></tr>
 <tr><td>2 : 0 100$Thieves</td></tr>
-
-<tr><td>Stake Pulse Beat</td></tr>
-<tr><td>July 28 19:00</td></tr>
-<tr><td>2 : 1 Astralis</td></tr>
 
 <tr><td>ESL Pro League</td></tr>
 <tr><td>July 23 17:00</td></tr>
@@ -532,6 +532,9 @@
 
 <tr><td>RLG Tesla Cup</td></tr>
 <tr><td>July 21 00:00</td></tr>
+<tr><td>1 : 2 B8</td></tr>
+<tr><td>RLG Tesla Cup</td></tr>
+<tr><td>July 21 00:00</td></tr>
 <tr><td>0 : 2 FaZe</td></tr>
 <tr><td>1win Private Club</td></tr>
 <tr><td>July 21 00:00</td></tr>
@@ -539,9 +542,6 @@
 <tr><td>1win Private Club</td></tr>
 <tr><td>July 21 00:00</td></tr>
 <tr><td>0 : 2 MongolZ</td></tr>
-<tr><td>Stake Ranked</td></tr>
-<tr><td>July 21 00:00</td></tr>
-<tr><td>0 : 2 fnatic</td></tr>
 
 <tr><td>PGL Bucharest Q</td></tr>
 <tr><td>July 22 12:00</td></tr>
