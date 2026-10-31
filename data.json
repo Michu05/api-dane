@@ -1,20 +1,24 @@
 <?php header('Content-type: text/html; charset=utf-8'); ?><!DOCTYPE HTML><html lang ="pl"> <head><meta charset="utf-8"/> <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/></head><body><table>
 
 <tr><td>PGL Bucharest</td></tr>
-<tr><td>October 30 13:00</td></tr>
-<tr><td>Vitality Nemiga</td></tr>
+<tr><td>October 31 09:00</td></tr>
+<tr><td>Vitality MOUZ</td></tr>
 
 <tr><td>PGL Bucharest</td></tr>
-<tr><td>October 30 16:00</td></tr>
-<tr><td>FURIA MOUZ</td></tr>
+<tr><td>October 31 12:00</td></tr>
+<tr><td>FURIA Nemiga</td></tr>
 
 <tr><td>PGL Bucharest</td></tr>
-<tr><td>October 30 16:00</td></tr>
-<tr><td>FURIA MOUZ</td></tr>
+<tr><td>October 31 09:00</td></tr>
+<tr><td>Vitality MOUZ</td></tr>
 
 <tr><td>IEM Beijing</td></tr>
 <tr><td>November 2 08:00</td></tr>
 <tr><td>Falcons NAVI</td></tr>
+
+<tr><td>PGL Masters Bucharest</td></tr>
+<tr><td>July 24 17:50</td></tr>
+<tr><td>0 : 2 Nemiga</td></tr>
 
 <tr><td>PGL Masters Bucharest</td></tr>
 <tr><td>July 24 17:50</td></tr>
@@ -29,8 +33,8 @@
 <tr><td>1 : 2 FUT</td></tr>
 
 <tr><td>PGL Masters Bucharest</td></tr>
-<tr><td>July 24 17:50</td></tr>
-<tr><td>2 : 0 MongolZ</td></tr>
+<tr><td>July 24 20:00</td></tr>
+<tr><td>2 : 1 MOUZ</td></tr>
 
 <tr><td>PGL Masters Bucharest</td></tr>
 <tr><td>July 24 20:00</td></tr>
@@ -45,8 +49,8 @@
 <tr><td>2 : 0 TYLOO</td></tr>
 
 <tr><td>PGL Masters Bucharest</td></tr>
-<tr><td>July 24 20:00</td></tr>
-<tr><td>1 : 2 Spirit</td></tr>
+<tr><td>July 25 17:25</td></tr>
+<tr><td>1 : 2 FURIA</td></tr>
 
 <tr><td>PGL Masters Bucharest</td></tr>
 <tr><td>July 25 17:25</td></tr>
@@ -59,10 +63,6 @@
 <tr><td>PGL Masters Bucharest</td></tr>
 <tr><td>July 25 17:25</td></tr>
 <tr><td>2 : 0 MongolZ</td></tr>
-
-<tr><td>PGL Masters Bucharest</td></tr>
-<tr><td>July 25 17:25</td></tr>
-<tr><td>2 : 0 9z</td></tr>
 
 <tr><td>Thunderpick</td></tr>
 <tr><td>July 22 17:30</td></tr>
@@ -117,8 +117,8 @@
 <tr><td>9z BB</td></tr>
 
 <tr><td>Gamers Club Masters</td></tr>
-<tr><td>October 30 21:00</td></tr>
-<tr><td>paiN Imperial</td></tr>
+<tr><td>October 31 14:00</td></tr>
+<tr><td>paiN NAOCOPULUS</td></tr>
 
 <tr><td>IEM Beijing</td></tr>
 <tr><td>November 2 08:00</td></tr>
@@ -133,8 +133,8 @@
 <tr><td>9z BB</td></tr>
 
 <tr><td>CCT</td></tr>
-<tr><td>October 30 19:00</td></tr>
-<tr><td>Phantom Lavked</td></tr>
+<tr><td>October 31 10:00</td></tr>
+<tr><td>Phantom Spi?rit$Academy</td></tr>
 
 <tr><td>Waiting</td></tr>
 <tr><td>Waiting</td></tr>
@@ -161,12 +161,12 @@
 <tr><td>Waiting</td></tr>
 
 <tr><td>CCT</td></tr>
-<tr><td>October 30 16:00</td></tr>
-<tr><td>Betclic Illyrians</td></tr>
+<tr><td>October 31 13:00</td></tr>
+<tr><td>Betclic 9INE</td></tr>
 
-<tr><td>Stake Ranked</td></tr>
-<tr><td>October 30 14:00</td></tr>
-<tr><td>MIBR Eternal$Fire</td></tr>
+<tr><td>Waiting</td></tr>
+<tr><td>Waiting</td></tr>
+<tr><td>Waiting</td></tr>
 
 <tr><td>Waiting</td></tr>
 <tr><td>Waiting</td></tr>
@@ -200,6 +200,10 @@
 <tr><td>July 25 18:00</td></tr>
 <tr><td>2 : 0 TYLOO</td></tr>
 
+<tr><td>HyperX Retake</td></tr>
+<tr><td>June 20 19:00</td></tr>
+<tr><td>2 : 0 Toobisie</td></tr>
+
 <tr><td>PGL Masters Bucharest</td></tr>
 <tr><td>June 20 19:00</td></tr>
 <tr><td>1 : 2 Vitality</td></tr>
@@ -211,10 +215,6 @@
 <tr><td>PGL Masters Bucharest</td></tr>
 <tr><td>June 20 19:00</td></tr>
 <tr><td>0 : 2 Vitality</td></tr>
-
-<tr><td>PGL Masters Bucharest</td></tr>
-<tr><td>June 20 19:00</td></tr>
-<tr><td>0 : 2 BB</td></tr>
 
 <tr><td>PGL Masters Bucharest</td></tr>
 <tr><td>July 25 18:00</td></tr>
@@ -314,6 +314,10 @@
 
 <tr><td>Gamers Club Masters</td></tr>
 <tr><td>July 26 14:00</td></tr>
+<tr><td>0 : 2 Imperial</td></tr>
+
+<tr><td>Gamers Club Masters</td></tr>
+<tr><td>July 26 14:00</td></tr>
 <tr><td>2 : 1 NAOCOPULAS</td></tr>
 
 <tr><td>Circuit X Curitiba</td></tr>
@@ -323,10 +327,6 @@
 <tr><td>Circuit X Curitiba</td></tr>
 <tr><td>July 26 14:00</td></tr>
 <tr><td>2 : 1 BESTIA</td></tr>
-
-<tr><td>Circuit X Curitiba</td></tr>
-<tr><td>July 26 14:00</td></tr>
-<tr><td>2 : 0 Galorys</td></tr>
 
 <tr><td>PGL Masters Bucharest</td></tr>
 <tr><td>June 14 21:00</td></tr>
@@ -472,6 +472,10 @@
 <tr><td>July 26 20:35</td></tr>
 <tr><td>0 : 2 Aurora</td></tr>
 
+<tr><td>CCT</td></tr>
+<tr><td>July 25 18:00</td></tr>
+<tr><td>2 : 0 Illyrians</td></tr>
+
 <tr><td>Stake Ranked Q</td></tr>
 <tr><td>July 25 18:00</td></tr>
 <tr><td>1 : 2 UNITY</td></tr>
@@ -484,9 +488,9 @@
 <tr><td>July 25 18:00</td></tr>
 <tr><td>2 : 0 Nemesis</td></tr>
 
-<tr><td>PGL Bucharest Q</td></tr>
-<tr><td>July 25 18:00</td></tr>
-<tr><td>1 : 2 B?BL</td></tr>
+<tr><td>Stake Ranked</td></tr>
+<tr><td>July 28 19:00</td></tr>
+<tr><td>0 : 2 Eternal$Fire</td></tr>
 
 <tr><td>Stake Ranked</td></tr>
 <tr><td>July 28 19:00</td></tr>
@@ -499,10 +503,6 @@
 <tr><td>Stake Ranked</td></tr>
 <tr><td>July 28 19:00</td></tr>
 <tr><td>2 : 1 Eternal$Fire</td></tr>
-
-<tr><td>Stake Pulse Beat</td></tr>
-<tr><td>July 28 19:00</td></tr>
-<tr><td>1 : 2 NIP</td></tr>
 
 <tr><td>ESL Pro League</td></tr>
 <tr><td>July 23 17:00</td></tr>
@@ -572,6 +572,9 @@
 <tr><td>July 22 12:00</td></tr>
 <tr><td>2 : 0 G2</td></tr>
 
+<tr><td>CCT</td></tr>
+<tr><td>June 14 00:00</td></tr>
+<tr><td>2 : 0 Lavked</td></tr>
 <tr><td>Stake Ranked Q</td></tr>
 <tr><td>June 14 00:00</td></tr>
 <tr><td>1 : 2 BRUTE</td></tr>
@@ -581,8 +584,5 @@
 <tr><td>Elisa BreakOut</td></tr>
 <tr><td>June 14 00:00</td></tr>
 <tr><td>2 : 0 ENCE</td></tr>
-<tr><td>Elisa BreakOut</td></tr>
-<tr><td>June 14 00:00</td></tr>
-<tr><td>13 : 4 HAVU</td></tr>
 
 </table></body></html>
