@@ -8,9 +8,9 @@
 <tr><td>November 11 03:00</td></tr>
 <tr><td>Legacy FURIA</td></tr>
 
-<tr><td>IEM Beijing</td></tr>
-<tr><td>November 8 08:30</td></tr>
-<tr><td>MOUZ MongolZ</td></tr>
+<tr><td>BLAST Rivals</td></tr>
+<tr><td>November 11 10:30</td></tr>
+<tr><td>G2 MOUZ</td></tr>
 
 <tr><td>BLAST Rivals</td></tr>
 <tr><td>November 11 05:30</td></tr>
@@ -50,6 +50,10 @@
 
 <tr><td>IEM Beijing</td></tr>
 <tr><td>July 25 17:25</td></tr>
+<tr><td>3 : 0 MongolZ</td></tr>
+
+<tr><td>IEM Beijing</td></tr>
+<tr><td>July 25 17:25</td></tr>
 <tr><td>2 : 0 BB</td></tr>
 
 <tr><td>IEM Beijing</td></tr>
@@ -59,10 +63,6 @@
 <tr><td>IEM Beijing</td></tr>
 <tr><td>July 25 17:25</td></tr>
 <tr><td>2 : 0 BB</td></tr>
-
-<tr><td>IEM Beijing</td></tr>
-<tr><td>July 25 17:25</td></tr>
-<tr><td>2 : 0 TYLOO</td></tr>
 
 <tr><td>IEM Beijing</td></tr>
 <tr><td>July 22 17:30</td></tr>
@@ -84,13 +84,13 @@
 <tr><td>November 11 08:00</td></tr>
 <tr><td>Spirit FUT</td></tr>
 
-<tr><td>IEM Beijing</td></tr>
-<tr><td>November 8 05:00</td></tr>
-<tr><td>NAVI BB</td></tr>
+<tr><td>Waiting</td></tr>
+<tr><td>Waiting</td></tr>
+<tr><td>Waiting</td></tr>
 
-<tr><td>IEM Beijing</td></tr>
-<tr><td>November 8 08:30</td></tr>
-<tr><td>MOUZ MongolZ</td></tr>
+<tr><td>Waiting</td></tr>
+<tr><td>Waiting</td></tr>
+<tr><td>Waiting</td></tr>
 
 <tr><td>Waiting</td></tr>
 <tr><td>Waiting</td></tr>
@@ -128,9 +128,9 @@
 <tr><td>November 17 19:30</td></tr>
 <tr><td>GL Luminosity</td></tr>
 
-<tr><td>IEM Beijing</td></tr>
-<tr><td>November 8 05:00</td></tr>
-<tr><td>NAVI BB</td></tr>
+<tr><td>Waiting</td></tr>
+<tr><td>Waiting</td></tr>
+<tr><td>Waiting</td></tr>
 
 <tr><td>Waiting</td></tr>
 <tr><td>Waiting</td></tr>
@@ -176,9 +176,9 @@
 <tr><td>Waiting</td></tr>
 <tr><td>Waiting</td></tr>
 
-<tr><td>Waiting</td></tr>
-<tr><td>Waiting</td></tr>
-<tr><td>Waiting</td></tr>
+<tr><td>ESL Challenger</td></tr>
+<tr><td>November 8 19:00</td></tr>
+<tr><td>Alliance TBD</td></tr>
 
 <tr><td>Waiting</td></tr>
 <tr><td>Waiting</td></tr>
@@ -202,6 +202,10 @@
 
 <tr><td>IEM Beijing</td></tr>
 <tr><td>June 20 19:00</td></tr>
+<tr><td>2 : 0 BB</td></tr>
+
+<tr><td>IEM Beijing</td></tr>
+<tr><td>June 20 19:00</td></tr>
 <tr><td>0 : 2 MongolZ</td></tr>
 
 <tr><td>IEM Beijing</td></tr>
@@ -213,8 +217,8 @@
 <tr><td>2 : 1 Falcons</td></tr>
 
 <tr><td>IEM Beijing</td></tr>
-<tr><td>June 20 19:00</td></tr>
-<tr><td>2 : 0 B8</td></tr>
+<tr><td>July 25 18:00</td></tr>
+<tr><td>0 : 3 MOUZ</td></tr>
 
 <tr><td>IEM Beijing</td></tr>
 <tr><td>July 25 18:00</td></tr>
@@ -227,10 +231,6 @@
 <tr><td>IEM Beijing</td></tr>
 <tr><td>July 25 18:00</td></tr>
 <tr><td>2 : 0 HEROIC</td></tr>
-
-<tr><td>IEM Beijing</td></tr>
-<tr><td>July 25 18:00</td></tr>
-<tr><td>2 : 1 Legacy</td></tr>
 
 <tr><td>Stake Ranked</td></tr>
 <tr><td>August 1 18:00</td></tr>
@@ -362,6 +362,10 @@
 
 <tr><td>IEM Beijing</td></tr>
 <tr><td>July 10 15:00</td></tr>
+<tr><td>0 : 2 NAVI</td></tr>
+
+<tr><td>IEM Beijing</td></tr>
+<tr><td>July 10 15:00</td></tr>
 <tr><td>0 : 2 MOUZ</td></tr>
 
 <tr><td>IEM Beijing</td></tr>
@@ -371,10 +375,6 @@
 <tr><td>IEM Beijing</td></tr>
 <tr><td>July 10 15:00</td></tr>
 <tr><td>2 : 1 Liquid</td></tr>
-
-<tr><td>IEM Beijing</td></tr>
-<tr><td>July 10 15:00</td></tr>
-<tr><td>2 : 0 Aurora</td></tr>
 
 <tr><td>RLG Tesla Cup</td></tr>
 <tr><td>July 26 14:15</td></tr>
@@ -530,18 +530,18 @@
 <tr><td>July 23 17:00</td></tr>
 <tr><td>2 : 1 HEROIC</td></tr>
 
+<tr><td>ESL Challenger</td></tr>
+<tr><td>July 21 00:00</td></tr>
+<tr><td>2 : 0 9INE</td></tr>
+<tr><td>ESL Challenger</td></tr>
+<tr><td>July 21 00:00</td></tr>
+<tr><td>2 : 1 MAYBE</td></tr>
 <tr><td>RLG Tesla Cup</td></tr>
 <tr><td>July 21 00:00</td></tr>
 <tr><td>1 : 2 B8</td></tr>
 <tr><td>RLG Tesla Cup</td></tr>
 <tr><td>July 21 00:00</td></tr>
 <tr><td>0 : 2 FaZe</td></tr>
-<tr><td>1win Private Club</td></tr>
-<tr><td>July 21 00:00</td></tr>
-<tr><td>0 : 2 PRIVATE</td></tr>
-<tr><td>1win Private Club</td></tr>
-<tr><td>July 21 00:00</td></tr>
-<tr><td>0 : 2 MongolZ</td></tr>
 
 <tr><td>PGL Bucharest Q</td></tr>
 <tr><td>July 22 12:00</td></tr>
