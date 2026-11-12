@@ -1,20 +1,24 @@
 <?php header('Content-type: text/html; charset=utf-8'); ?><!DOCTYPE HTML><html lang ="pl"> <head><meta charset="utf-8"/> <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/></head><body><table>
 
 <tr><td>BLAST Rivals</td></tr>
-<tr><td>November 12 05:30</td></tr>
-<tr><td>Vitality FURIA</td></tr>
+<tr><td>November 13 09:00</td></tr>
+<tr><td>Vitality MOUZ</td></tr>
 
 <tr><td>BLAST Rivals</td></tr>
-<tr><td>November 12 05:30</td></tr>
-<tr><td>Vitality FURIA</td></tr>
+<tr><td>November 14 11:30</td></tr>
+<tr><td>FURIA TBD</td></tr>
 
 <tr><td>BLAST Rivals</td></tr>
-<tr><td>November 12 08:00</td></tr>
-<tr><td>FUT MOUZ</td></tr>
+<tr><td>November 13 09:00</td></tr>
+<tr><td>Vitality MOUZ</td></tr>
 
 <tr><td>BLAST Rivals</td></tr>
-<tr><td>November 12 03:00</td></tr>
-<tr><td>Falcons Legacy</td></tr>
+<tr><td>November 13 11:30</td></tr>
+<tr><td>Falcons G2</td></tr>
+
+<tr><td>BLAST Rivals</td></tr>
+<tr><td>July 24 17:50</td></tr>
+<tr><td>1 : 2 FURIA</td></tr>
 
 <tr><td>BLAST Rivals</td></tr>
 <tr><td>July 24 17:50</td></tr>
@@ -28,9 +32,9 @@
 <tr><td>July 24 17:50</td></tr>
 <tr><td>0 : 2 Nemiga</td></tr>
 
-<tr><td>PGL Masters Bucharest</td></tr>
-<tr><td>July 24 17:50</td></tr>
-<tr><td>2 : 1 NAVI</td></tr>
+<tr><td>BLAST Rivals</td></tr>
+<tr><td>July 24 20:00</td></tr>
+<tr><td>2 : 1 Vitality</td></tr>
 
 <tr><td>BLAST Rivals</td></tr>
 <tr><td>July 24 20:00</td></tr>
@@ -44,9 +48,9 @@
 <tr><td>July 24 20:00</td></tr>
 <tr><td>1 : 2 MongolZ</td></tr>
 
-<tr><td>IEM Beijing</td></tr>
-<tr><td>July 24 20:00</td></tr>
-<tr><td>2 : 1 NAVI</td></tr>
+<tr><td>BLAST Rivals</td></tr>
+<tr><td>July 25 17:25</td></tr>
+<tr><td>2 : 1 FUT</td></tr>
 
 <tr><td>BLAST Rivals</td></tr>
 <tr><td>July 25 17:25</td></tr>
@@ -60,9 +64,9 @@
 <tr><td>July 25 17:25</td></tr>
 <tr><td>2 : 0 BB</td></tr>
 
-<tr><td>IEM Beijing</td></tr>
-<tr><td>July 25 17:25</td></tr>
-<tr><td>2 : 0 PV</td></tr>
+<tr><td>BLAST Rivals</td></tr>
+<tr><td>July 22 17:30</td></tr>
+<tr><td>2 : 0 Legacy</td></tr>
 
 <tr><td>BLAST Rivals</td></tr>
 <tr><td>July 22 17:30</td></tr>
@@ -76,13 +80,9 @@
 <tr><td>July 22 17:30</td></tr>
 <tr><td>2 : 0 HEROIC</td></tr>
 
-<tr><td>IEM Beijing</td></tr>
-<tr><td>July 22 17:30</td></tr>
-<tr><td>2 : 1 FaZe</td></tr>
-
 <tr><td>PGL Bucharest</td></tr>
-<tr><td>November 12 10:30</td></tr>
-<tr><td>Spirit G2</td></tr>
+<tr><td>November 14 09:00</td></tr>
+<tr><td>Spirit TBD</td></tr>
 
 <tr><td>Waiting</td></tr>
 <tr><td>Waiting</td></tr>
@@ -96,9 +96,9 @@
 <tr><td>Waiting</td></tr>
 <tr><td>Waiting</td></tr>
 
-<tr><td>BLAST Rivals</td></tr>
-<tr><td>November 12 08:00</td></tr>
-<tr><td>FUT MOUZ</td></tr>
+<tr><td>Waiting</td></tr>
+<tr><td>Waiting</td></tr>
+<tr><td>Waiting</td></tr>
 
 <tr><td>Waiting</td></tr>
 <tr><td>Waiting</td></tr>
@@ -108,9 +108,9 @@
 <tr><td>November 24 07:00</td></tr>
 <tr><td>PV DENDELE</td></tr>
 
-<tr><td>PGL Bucharest</td></tr>
-<tr><td>November 12 10:30</td></tr>
-<tr><td>Spirit G2</td></tr>
+<tr><td>BLAST Rivals</td></tr>
+<tr><td>November 13 11:30</td></tr>
+<tr><td>Falcons G2</td></tr>
 
 <tr><td>PGL Major Singapore</td></tr>
 <tr><td>November 24 05:00</td></tr>
@@ -120,9 +120,9 @@
 <tr><td>Waiting</td></tr>
 <tr><td>Waiting</td></tr>
 
-<tr><td>BLAST Rivals</td></tr>
-<tr><td>November 12 03:00</td></tr>
-<tr><td>Falcons Legacy</td></tr>
+<tr><td>Waiting</td></tr>
+<tr><td>Waiting</td></tr>
+<tr><td>Waiting</td></tr>
 
 <tr><td>Stake Ranked</td></tr>
 <tr><td>November 17 19:30</td></tr>
@@ -176,13 +176,17 @@
 <tr><td>Waiting</td></tr>
 <tr><td>Waiting</td></tr>
 
-<tr><td>Waiting</td></tr>
-<tr><td>Waiting</td></tr>
-<tr><td>Waiting</td></tr>
+<tr><td>BLAST Rivals</td></tr>
+<tr><td>November 12 19:00</td></tr>
+<tr><td>Alliance Noir$Verse</td></tr>
 
 <tr><td>Waiting</td></tr>
 <tr><td>Waiting</td></tr>
 <tr><td>Waiting</td></tr>
+
+<tr><td>BLAST Rivals</td></tr>
+<tr><td>July 25 18:00</td></tr>
+<tr><td>2 : 1 G2</td></tr>
 
 <tr><td>BLAST Rivals</td></tr>
 <tr><td>July 25 18:00</td></tr>
@@ -195,10 +199,6 @@
 <tr><td>PGL Masters Bucharest</td></tr>
 <tr><td>July 25 18:00</td></tr>
 <tr><td>1 : 2 MOUZ</td></tr>
-
-<tr><td>PGL Masters Bucharest</td></tr>
-<tr><td>July 25 18:00</td></tr>
-<tr><td>2 : 1 FURIA</td></tr>
 
 <tr><td>IEM Beijing</td></tr>
 <tr><td>June 20 19:00</td></tr>
@@ -250,6 +250,10 @@
 
 <tr><td>BLAST Rivals</td></tr>
 <tr><td>July 25 18:00</td></tr>
+<tr><td>1 : 2 MOUZ</td></tr>
+
+<tr><td>BLAST Rivals</td></tr>
+<tr><td>July 25 18:00</td></tr>
 <tr><td>1 : 2 Spirit</td></tr>
 
 <tr><td>PGL Masters Bucharest</td></tr>
@@ -259,10 +263,6 @@
 <tr><td>PGL Masters Bucharest</td></tr>
 <tr><td>July 25 18:00</td></tr>
 <tr><td>2 : 1 Vitality</td></tr>
-
-<tr><td>PGL Masters Bucharest</td></tr>
-<tr><td>July 25 18:00</td></tr>
-<tr><td>2 : 0 Liquid</td></tr>
 
 <tr><td>IEM Beijing</td></tr>
 <tr><td>July 12 10:00</td></tr>
@@ -282,6 +282,10 @@
 
 <tr><td>BLAST Rivals</td></tr>
 <tr><td>July 23 17:00</td></tr>
+<tr><td>1 : 2 Spirit</td></tr>
+
+<tr><td>BLAST Rivals</td></tr>
+<tr><td>July 23 17:00</td></tr>
 <tr><td>2 : 1 MOUZ</td></tr>
 
 <tr><td>IEM Beijing</td></tr>
@@ -291,10 +295,6 @@
 <tr><td>IEM Beijing</td></tr>
 <tr><td>July 23 17:00</td></tr>
 <tr><td>1 : 2 PV</td></tr>
-
-<tr><td>PGL Masters Bucharest</td></tr>
-<tr><td>July 23 17:00</td></tr>
-<tr><td>1 : 2 DENDELE</td></tr>
 
 <tr><td>IEM Beijing</td></tr>
 <tr><td>July 12 12:00</td></tr>
@@ -330,6 +330,10 @@
 
 <tr><td>BLAST Rivals</td></tr>
 <tr><td>June 14 21:00</td></tr>
+<tr><td>0 : 2 Falcons</td></tr>
+
+<tr><td>BLAST Rivals</td></tr>
+<tr><td>June 14 21:00</td></tr>
 <tr><td>0 : 2 FURIA</td></tr>
 
 <tr><td>IEM Beijing</td></tr>
@@ -339,10 +343,6 @@
 <tr><td>IEM Beijing</td></tr>
 <tr><td>June 14 21:00</td></tr>
 <tr><td>1 : 2 MongolZ</td></tr>
-
-<tr><td>PGL Masters Bucharest</td></tr>
-<tr><td>June 14 21:00</td></tr>
-<tr><td>0 : 2 MongolZ</td></tr>
 
 <tr><td>RLG Tesla Cup</td></tr>
 <tr><td>July 23 17:00</td></tr>
@@ -532,6 +532,9 @@
 
 <tr><td>ESL Challenger</td></tr>
 <tr><td>July 21 00:00</td></tr>
+<tr><td>2 : 0 Four$Magic</td></tr>
+<tr><td>ESL Challenger</td></tr>
+<tr><td>July 21 00:00</td></tr>
 <tr><td>2 : 0 aimclub</td></tr>
 <tr><td>ESL Challenger</td></tr>
 <tr><td>July 21 00:00</td></tr>
@@ -539,9 +542,6 @@
 <tr><td>ESL Challenger</td></tr>
 <tr><td>July 21 00:00</td></tr>
 <tr><td>2 : 0 PRIVATE</td></tr>
-<tr><td>ESL Challenger</td></tr>
-<tr><td>July 21 00:00</td></tr>
-<tr><td>2 : 0 9INE</td></tr>
 
 <tr><td>PGL Bucharest Q</td></tr>
 <tr><td>July 22 12:00</td></tr>
